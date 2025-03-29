@@ -18,18 +18,24 @@ Feel free to explore my repositories and connect with me! 🤝
 
 ## 🚀 My Most Used Languages
 
-<img alt="Python" src="https://img.shields.io/badge/Python-d92959.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="Rust" src="https://img.shields.io/badge/Rust-414574.svg?style=for-the-badge&logo=rust&logoColor=white"/>
-<img alt="Go" src="https://img.shields.io/badge/Go-d92959.svg?style=for-the-badge&logo=go&logoColor=white"/>
-<img alt="Dart" src="https://img.shields.io/badge/Dart-414574.svg?style=for-the-badge&logo=dart&logoColor=white"/>
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-d92959.svg?style=for-the-badge&logo=typescript&logoColor=white"/><br>
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter-115694.svg?style=for-the-badge&logo=flutter&logoColor=5dc0ee"/>
-<img alt="Next" src="https://img.shields.io/badge/Next-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img alt="Django" src="https://img.shields.io/badge/Django-163528.svg?style=for-the-badge&logo=django&logoColor=white"/>
-<img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
-<img alt="React" src="https://img.shields.io/badge/React-000000.svg?style=for-the-badge&logo=react&logoColor=3178C6"/>
-<img alt="Mongo" src="https://img.shields.io/badge/Mongo-031e2b.svg?style=for-the-badge&logo=mongodb&logoColor=40ed6e"/>
-<img alt="Postgres" src="https://img.shields.io/badge/Postgres-36658b.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+### PHP
+<img alt="PHP" src="https://img.shields.io/badge/PHP-4F5B93.svg?style=for-the-badge&logo=php&logoColor=white"/>
+
+### HTML5
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+
+### CSS3
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+
+### JavaScript
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+### Java
+<img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white"/>
+
+### MySQL
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 
 
