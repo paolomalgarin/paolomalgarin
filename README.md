@@ -13,17 +13,15 @@ Here you can see my GitHub stats and get a glimpse of my coding journey. 🚀
 Feel free to explore my repositories and connect with me! 🤝
 
 
+
+
+
 ## 🚀 My Most Used Languages
 
-|||||
-|---|---|---|---|
-| ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg) | ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) | ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | PHP | HTML5 | CSS3 | JavaScript |
-| ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) | Java |
-|  | MySQL |
+| ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg) | ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) | ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) | ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) |
+|----|----|----|----|----|----|
+| PHP | HTML5 | CSS3 | JavaScript | Java | MySQL |
 
-## 📌 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paolo&layout=compact&theme=tokyonight)
 
-Feel free to explore my repositories and connect with me! 🤝
 
