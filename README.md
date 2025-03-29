@@ -7,7 +7,7 @@ Here you can see my GitHub stats and get a glimpse of my coding journey. 🚀
 
 ## GitHub Stats
 
-![Paolo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paolomalgarin&show_icons=true&theme=tokyonight)
+![Paolo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paolomalgarin&show_icons=true&theme=dark)
 
 
 Feel free to explore my repositories and connect with me! 🤝
