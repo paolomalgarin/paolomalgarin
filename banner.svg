@@ -141,46 +141,41 @@
             <feGaussianBlur stdDeviation="50" />
             <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
             <!-- ... -->
-            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.86 0"/>
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.86 0" />
             <feBlend mode="normal" in2="shape" result="effect1_innerShadow_18_4" />
         </filter>
-    
+
         <!-- Filtro Dark Mode -->
-        <filter id="filter-dark" class="shadow-filter" x="0" y="0" width="1280" height="640"
-            filterUnits="userSpaceOnUse"
-            color-interpolation-filters="sRGB">
+        <filter id="filter-dark" x="0" y="0" width="1280" height="640"
+            filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
             <feFlood flood-opacity="0" result="BackgroundImageFix" />
             <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
             <feColorMatrix in="SourceAlpha" type="matrix"
-                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
-                result="hardAlpha" />
+                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
             <feMorphology radius="30" operator="erode" in="SourceAlpha"
-                result="effect1_innerShadow_18_4" />
+                result="effect1_innerShadow_18_3" />
             <feOffset />
             <feGaussianBlur stdDeviation="50" />
             <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
-            <!-- ... -->
-            <feColorMatrix values="0.05 0 0 0 0 0 0.067 0 0 0 0 0 0.09 0 0 0 0 0 0.86 0"/>
-            <feBlend mode="normal" in2="shape" result="effect1_innerShadow_18_4" />
+            <feColorMatrix type="matrix"
+                values="0 0 0 0 0.0509804 0 0 0 0 0.0666667 0 0 0 0 0.0901961 0 0 0 0.86 0" />
+            <feBlend mode="normal" in2="shape" result="effect1_innerShadow_18_3" />
         </filter>
-    
+
         <!-- Filtro Light Mode -->
-        <filter id="filter-light" class="shadow-filter" x="0" y="0" width="1280" height="640"
-            filterUnits="userSpaceOnUse"
-            color-interpolation-filters="sRGB">
+        <filter id="filter-light" x="0" y="0" width="1280" height="640"
+            filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
             <feFlood flood-opacity="0" result="BackgroundImageFix" />
             <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
             <feColorMatrix in="SourceAlpha" type="matrix"
-                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
-                result="hardAlpha" />
+                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
             <feMorphology radius="30" operator="erode" in="SourceAlpha"
-                result="effect1_innerShadow_18_4" />
+                result="effect1_innerShadow_18_3" />
             <feOffset />
             <feGaussianBlur stdDeviation="50" />
             <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
-            <!-- ... -->
-            <feColorMatrix values="1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.86 0"/>
-            <feBlend mode="normal" in2="shape" result="effect1_innerShadow_18_4" />
+            <feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.86 0" />
+            <feBlend mode="normal" in2="shape" result="effect1_innerShadow_18_3" />
         </filter>
     </defs>
 </svg>
