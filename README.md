@@ -9,8 +9,5 @@ Here you can see my GitHub stats and get a glimpse of my coding journey. 🚀
 
 ![Paolo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paolomalgarin&show_icons=true&theme=tokyonight)
 
-## Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paolomalgarin&layout=compact&theme=tokyonight)
 
 Feel free to explore my repositories and connect with me! 🤝
