@@ -1,10 +1,26 @@
 <svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
     <style>
         :root {
-        --bg-color: #121315;
-        --primary-color: #454545;
-        --black: #000;
-        --animation-speed: 0.6s;
+            --bg-color: #121315;
+            --primary-color: #454545;
+            --black: #000;
+            --animation-speed: 0.6s;
+        }
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg-color: #121821;
+                --primary-color: #454545;
+                --black: #0D1117;
+                --animation-speed: 0.6s;
+            }
+        }
+        @media (prefers-color-scheme: light) {
+            :root {
+                --bg-color: #e6e6e6;
+                --primary-color: #454545;
+                --black: #ffffff;
+                --animation-speed: 0.6s;
+            }
         }
         svg #sfondo {
         fill: var(--bg-color);
