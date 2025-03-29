@@ -4,55 +4,42 @@
     <style>
         :root {
             --bg-color: #121315;
-            --primary-color: #454545;
-
+            --primary-color: #454545
             --black: #000;
-
             --animation-speed: .6s;
         }
-
         svg {
             #sfondo {
                 fill: var(--bg-color);
                 animation: ambient var(--animation-speed) ease-in-out infinite;
-
                 box-sizing: border-box;
                 border: solid 5px red;
             }
-
             path.letter {
                 fill: var(--primary-color);
                 animation: sbam calc(var(--animation-speed) * 5) calc(var(--position) * var(--animation-speed)) ease-in-out infinite forwards;
             }
         }
-
         @keyframes sbam {
             0% {
                 fill: var(--accent);
             }
-
             18% {
                 fill: var(--primary-color);
             }
         }
-
         @keyframes ambient {
             0% {
                 fill: var(--bg-color);
             }
-
             85% {
                 fill: var(--black);
             }
-
             100% {
                 fill: var(--bg-color);
             }
         }
     </style>
-
-
-
     <g filter="url(#filter0_i_18_4)">
         <rect id="sfondo" width="1280" height="640" fill="#121315" />
     </g>
