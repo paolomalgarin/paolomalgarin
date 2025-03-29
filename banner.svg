@@ -12,6 +12,7 @@
             :root {
                 --bg-color: #121821;
                 --black: #0D1117;
+                --primary-color: #454545;
             }
             #bg-filter {
                 filter: url(#filter-dark);
@@ -23,6 +24,7 @@
             :root {
                 --bg-color: #e6e6e6;
                 --black: #ffffff;
+                --primary-color: #333;
             }
             #bg-filter {
                 filter: url(#filter-light);
