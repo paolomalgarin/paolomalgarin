@@ -5,27 +5,30 @@
             --primary-color: #454545;
             --black: #000;
             --animation-speed: 0.6s;
-            --shadow: "0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.86 0";
         }
+    
+        /* DARK MODE */
         @media (prefers-color-scheme: dark) {
             :root {
                 --bg-color: #121821;
-                --primary-color: #454545;
                 --black: #0D1117;
-                --animation-speed: 0.6s;
-                --shadow: 0.05 0 0 0 0 0 0.067 0 0 0 0 0 0.09 0 0 0 0 0 0.86 0; /* #0D1117 in RGB */
+            }
+            #bg-filter {
+                filter: url(#filter-dark);
             }
         }
+    
+        /* LIGHT MODE */
         @media (prefers-color-scheme: light) {
             :root {
                 --bg-color: #e6e6e6;
-                --primary-color: #454545;
                 --black: #ffffff;
-                --animation-speed: 0.6s;
-                --shadow: 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.86 0; /* Bianco (#FFFFFF) */
+            }
+            #bg-filter {
+                filter: url(#filter-light);
             }
         }
-        svg #sfondo {
+        #sfondo {
             fill: var(--bg-color);
             animation: ambient var(--animation-speed) ease-in-out infinite;
             box-sizing: border-box;
@@ -58,7 +61,7 @@
     </style>
 
 
-    <g filter="url(#filter0_i_18_4)">
+    <g id="bg-filter" >
         <rect id="sfondo" width="1280" height="640" fill="#121315" />
     </g>
     <mask id="path-2-outside-1_18_4" maskUnits="userSpaceOnUse" x="889" y="255" width="98"
@@ -121,8 +124,10 @@
     <path
         d="M298.42 392.42H297.42V393.42H298.42V392.42ZM298.42 269.44V268.44H297.42V269.44H298.42ZM318 269.44V270.44H319V269.44H318ZM318 250.08V249.08H317V250.08H318ZM383.12 250.08H384.12V249.08H383.12V250.08ZM383.12 269.44H382.12V270.44H383.12V269.44ZM402.92 269.44H403.92V268.44H402.92V269.44ZM402.92 334.78V335.78H403.92V334.78H402.92ZM383.12 334.78V333.78H382.12V334.78H383.12ZM383.12 354.14V355.14H384.12V354.14H383.12ZM324.38 354.14V353.14H323.38V354.14H324.38ZM324.38 392.42V393.42H325.38V392.42H324.38ZM324.38 326.64H323.38V327.64H324.38V326.64ZM376.74 326.64V327.64H377.74V326.64H376.74ZM376.74 277.58H377.74V276.58H376.74V277.58ZM324.38 277.58V276.58H323.38V277.58H324.38ZM299.42 392.42V269.44H297.42V392.42H299.42ZM298.42 270.44H318V268.44H298.42V270.44ZM319 269.44V250.08H317V269.44H319ZM318 251.08H383.12V249.08H318V251.08ZM382.12 250.08V269.44H384.12V250.08H382.12ZM383.12 270.44H402.92V268.44H383.12V270.44ZM401.92 269.44V334.78H403.92V269.44H401.92ZM402.92 333.78H383.12V335.78H402.92V333.78ZM382.12 334.78V354.14H384.12V334.78H382.12ZM383.12 353.14H324.38V355.14H383.12V353.14ZM323.38 354.14V392.42H325.38V354.14H323.38ZM324.38 391.42H298.42V393.42H324.38V391.42ZM324.38 327.64H376.74V325.64H324.38V327.64ZM377.74 326.64V277.58H375.74V326.64H377.74ZM376.74 276.58H324.38V278.58H376.74V276.58ZM323.38 277.58V326.64H325.38V277.58H323.38Z"
         fill="0D1117" mask="url(#path-10-outside-5_18_4)" />
+    
     <defs>
-        <filter id="filter0_i_18_4" x="0" y="0" width="1280" height="640"
+        <!-- Filtro Default -->
+        <filter id="filter-default" class="shadow-filter" x="0" y="0" width="1280" height="640"
             filterUnits="userSpaceOnUse"
             color-interpolation-filters="sRGB">
             <feFlood flood-opacity="0" result="BackgroundImageFix" />
@@ -135,7 +140,46 @@
             <feOffset />
             <feGaussianBlur stdDeviation="50" />
             <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
-            <feColorMatrix type="matrix" values="var(--shadow)" />
+            <!-- ... -->
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.86 0"/>
+            <feBlend mode="normal" in2="shape" result="effect1_innerShadow_18_4" />
+        </filter>
+    
+        <!-- Filtro Dark Mode -->
+        <filter id="filter-dark" class="shadow-filter" x="0" y="0" width="1280" height="640"
+            filterUnits="userSpaceOnUse"
+            color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+            <feColorMatrix in="SourceAlpha" type="matrix"
+                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                result="hardAlpha" />
+            <feMorphology radius="30" operator="erode" in="SourceAlpha"
+                result="effect1_innerShadow_18_4" />
+            <feOffset />
+            <feGaussianBlur stdDeviation="50" />
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+            <!-- ... -->
+            <feColorMatrix values="0.05 0 0 0 0 0 0.067 0 0 0 0 0 0.09 0 0 0 0 0 0.86 0"/>
+            <feBlend mode="normal" in2="shape" result="effect1_innerShadow_18_4" />
+        </filter>
+    
+        <!-- Filtro Light Mode -->
+        <filter id="filter-light" class="shadow-filter" x="0" y="0" width="1280" height="640"
+            filterUnits="userSpaceOnUse"
+            color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+            <feColorMatrix in="SourceAlpha" type="matrix"
+                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                result="hardAlpha" />
+            <feMorphology radius="30" operator="erode" in="SourceAlpha"
+                result="effect1_innerShadow_18_4" />
+            <feOffset />
+            <feGaussianBlur stdDeviation="50" />
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+            <!-- ... -->
+            <feColorMatrix values="1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.86 0"/>
             <feBlend mode="normal" in2="shape" result="effect1_innerShadow_18_4" />
         </filter>
     </defs>
