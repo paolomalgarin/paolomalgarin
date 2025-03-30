@@ -1,4 +1,4 @@
-<img src="banner.svg" width="100%">
+<img src="banner.svg" width="100%" style="aspect-ratio: 2 / 1; object-fit: contains;">
  
 # Hello, I'm Paolo! 👋
 > Welcome to my GitHub profile! 😄  
