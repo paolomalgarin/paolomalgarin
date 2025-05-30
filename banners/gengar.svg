@@ -1,0 +1,283 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none"
+    xmlns="http://www.w3.org/2000/svg">
+    <style> 
+        * { 
+        /* colori di base */
+         --black: #000;
+         --white: #fff;
+         --gray: #2D2D2D;
+         --dark-gray: #1B1B1B;
+         --light-gray: #EFEFEF;
+
+         --yellow: #D9C241;
+         --red: #F0404A;
+
+        /* colori elementi */ 
+        --light-lamp-holder-color: var(--black); 
+        --light-cable-color: var(--black);
+        --light-color: var(--yellow); 
+        --light-shadow-filter: url(#filter3_d_98_36);
+        --enlightened-wall-color: var(--gray); 
+        /*
+
+        --eye-color: var(--red);
+        --eye-filter-1: url(#filter1_in_98_36);
+        --eye-filter-2: url(#filter2_in_98_36);
+        --teeth-color: var(--light-gray); */
+    }
+
+    /* tocca aggiungere lo stile ad ogni componente x problemi di svg a supportare css */ 
+    .item {
+        transition all .3s ease-in-out;
+        animation: ghengereggia 10s infinite;
+    }
+    .gengar-eyes {
+        transition fill .3s ease-in-out;
+        animation: ghengereggia 10s infinite;
+    }
+
+    @keyframes ghengereggia {
+        0% {
+            --light-color: var(--yellow);
+            --light-shadow-filter: url(#filter3_d_98_36);
+            --enlightened-wall-color: var(--gray);
+            --eye-color: #00000000;
+            --teeth-color: #00000000;
+            --teeth-spaces-color: #00000000;
+            --eye-filter-1: none;
+            --eye-filter-2: none;
+        }
+
+        5% {
+            --light-color: var(--yellow);
+            --light-shadow-filter: url(#filter3_d_98_36);
+            --enlightened-wall-color: var(--gray);
+        }
+        6% {
+            --light-color: var(--black);
+            --light-shadow-filter: none;
+            --enlightened-wall-color: var(--black);
+        }
+
+        9% {
+            --light-color: var(--black);
+            --light-shadow-filter: none;
+            --enlightened-wall-color: var(--black);
+        }
+        10% {
+            --light-color: var(--yellow);
+            --light-shadow-filter: url(#filter3_d_98_36);
+            --enlightened-wall-color: var(--gray);
+        }
+        11% {
+            --light-color: var(--black);
+            --light-shadow-filter: none;
+            --enlightened-wall-color: var(--black);
+        }
+
+
+        17% {
+            --light-color: var(--black);
+            --light-shadow-filter: none;
+            --enlightened-wall-color: var(--black);
+        }
+        18% {
+            --light-color: var(--yellow);
+            --light-shadow-filter: url(#filter3_d_98_36);
+            --enlightened-wall-color: var(--gray);
+        }
+        19% {
+            --light-color: var(--black);
+            --light-shadow-filter: none;
+            --enlightened-wall-color: var(--black);
+        }
+        20% {
+            --light-color: var(--yellow);
+            --light-shadow-filter: url(#filter3_d_98_36);
+            --enlightened-wall-color: var(--gray);
+        }
+        21% {
+            --light-color: var(--black);
+            --light-shadow-filter: none;
+            --enlightened-wall-color: var(--black);
+        }
+        
+
+        23% {
+            --light-color: var(--black);
+            --light-shadow-filter: none;
+            --enlightened-wall-color: var(--black);
+        }
+        24% {
+            --light-color: var(--yellow);
+            --light-shadow-filter: url(#filter3_d_98_36);
+            --enlightened-wall-color: var(--gray);
+        }
+        25% {
+            --light-color: var(--black);
+            --light-shadow-filter: none;
+            --enlightened-wall-color: var(--black);
+        }
+
+        27% {
+            --eye-color: #00000000;
+            --teeth-color: #00000000;
+            --teeth-spaces-color: #00000000;
+        }
+        50% {
+            --light-color: var(--black);
+            --light-shadow-filter: none;
+            --enlightened-wall-color: var(--black);
+
+            --eye-color: var(--red);
+            --teeth-color: var(--light-gray);
+            --teeth-spaces-color: var(--black);
+        }
+        78% {
+            --eye-color: #00000000;
+            --teeth-color: #00000000;
+            --teeth-spaces-color: #00000000;
+        }
+
+        80% {
+            --eye-color: #00000000;
+            --teeth-color: #00000000;
+            --teeth-spaces-color: #00000000;
+            --eye-filter-1: none;
+            --eye-filter-2: none;
+            --light-color: var(--yellow);
+            --light-shadow-filter: url(#filter3_d_98_36);
+            --enlightened-wall-color: var(--gray);
+        }
+    }
+    </style>
+    <g clip-path="url(#clip0_98_36)" id='gengar-container'>
+        <rect width="1920" height="1080" fill="black" />
+        <g filter="url(#filter0_i_98_36)">
+            <ellipse cx="960" cy="301" rx="542" ry="537" fill="var(--enlightened-wall-color)" class="item" />
+        </g>
+        <g filter="var(--eye-filter-1)" class="gengar-eyes">
+            <path
+                d="M787.95 350.6C791.956 372.736 807.084 399.623 830.771 423.311C831.71 424.249 832.654 425.174 833.603 426.086C833.215 429.938 833 434.124 833 438.5C833 457.554 837.029 473 842 473C846.757 473 850.649 458.851 850.975 440.933C873.497 457.937 896.842 467.328 915.092 467.197C903.364 506.971 866.573 536 823 536C769.981 536 727 493.019 727 440C727 399.35 752.266 364.601 787.95 350.6Z"
+                fill="var(--eye-color)" class="gengar-eyes" />
+        </g>
+        <g filter="var(--eye-filter-2)" class="gengar-eyes">
+            <path
+                d="M1113.14 350C1109.14 372.137 1094.01 399.023 1070.32 422.711C1069.38 423.65 1068.44 424.575 1067.49 425.486C1067.88 429.338 1068.09 433.524 1068.09 437.9C1068.09 456.954 1064.06 472.4 1059.09 472.4C1054.33 472.4 1050.44 458.252 1050.12 440.333C1027.6 457.338 1004.25 466.728 986 466.598C997.728 506.371 1034.52 535.4 1078.09 535.4C1131.11 535.4 1174.09 492.42 1174.09 439.4C1174.09 398.75 1148.83 364.001 1113.14 350Z"
+                fill="var(--eye-color)" class="gengar-eyes" />
+        </g>
+        <path
+            d="M1241 513C1241 633.398 1114.97 731 959.5 731C804.032 731 678 633.398 678 513C678 513 804.032 592.775 959.5 592.775C1114.97 592.775 1241 513 1241 513Z"
+            fill="var(--teeth-color)" class="item" />
+        <line x1="960.5" y1="592" x2="960.5" y2="731" stroke="var(--teeth-spaces-color)" class="item" />
+        <line x1="1060.5" y1="582" x2="1060.5" y2="717" stroke="var(--teeth-spaces-color)" class="item" />
+        <line y1="-0.5" x2="135" y2="-0.5" transform="matrix(-4.4386e-10 1 1 4.4386e-10 860 582)"
+            stroke="var(--teeth-spaces-color)" class="item" />
+        <line x1="1160.5" y1="552" x2="1160.5" y2="667" stroke="var(--teeth-spaces-color)" class="item" />
+        <line y1="-0.5" x2="115" y2="-0.5" transform="matrix(-4.4386e-10 1 1 4.4386e-10 760 552)"
+            stroke="var(--teeth-spaces-color)" class="item" />
+        <line x1="960.5" x2="960.5" y2="172" stroke="var(--light-cable-color)" class="item" />
+        <rect x="925.5" y="172.5" width="69" height="107" fill="var(--light-lamp-holder-color)" class="item"
+            stroke="black" />
+        <g filter="var(--light-shadow-filter)" class="item">
+            <path
+                d="M1035 301C1035 342.421 1001.42 376 960 376C918.579 376 885 342.421 885 301C885 259.579 918.579 226 960 226C1001.42 226 1035 259.579 1035 301Z"
+                fill="var(--light-color)" class="item" />
+            <path
+                d="M960 226.5C1001.15 226.5 1034.5 259.855 1034.5 301C1034.5 342.145 1001.15 375.5 960 375.5C918.855 375.5 885.5 342.145 885.5 301C885.5 259.855 918.855 226.5 960 226.5Z"
+                stroke="black" />
+        </g>
+    </g>
+    <defs>
+        <filter id="filter0_i_98_36" x="418" y="-236" width="1084" height="1074"
+            filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+            <feColorMatrix in="SourceAlpha" type="matrix"
+                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+            <feMorphology radius="33" operator="erode" in="SourceAlpha"
+                result="effect1_innerShadow_98_36" />
+            <feOffset />
+            <feGaussianBlur stdDeviation="44" />
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0" />
+            <feBlend mode="normal" in2="shape" result="effect1_innerShadow_98_36" />
+        </filter>
+        <filter id="filter1_in_98_36" x="727" y="350.6" width="188.092" height="189.4"
+            filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+            <feColorMatrix in="SourceAlpha" type="matrix"
+                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+            <feMorphology radius="15" operator="erode" in="SourceAlpha"
+                result="effect1_innerShadow_98_36" />
+            <feOffset dy="4" />
+            <feGaussianBlur stdDeviation="2" />
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+            <feColorMatrix type="matrix"
+                values="0 0 0 0 0.694118 0 0 0 0 0.180392 0 0 0 0 0.2 0 0 0 1 0" />
+            <feBlend mode="normal" in2="shape" result="effect1_innerShadow_98_36" />
+            <feTurbulence type="fractalNoise" baseFrequency="0.25 0.25" stitchTiles="stitch"
+                numOctaves="3" result="noise" seed="6947" />
+            <feColorMatrix in="noise" type="luminanceToAlpha" result="alphaNoise" />
+            <feComponentTransfer in="alphaNoise" result="coloredNoise1">
+                <feFuncA type="discrete"
+                    tableValues="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 " />
+            </feComponentTransfer>
+            <feComposite operator="in" in2="effect1_innerShadow_98_36" in="coloredNoise1"
+                result="noise1Clipped" />
+            <feFlood flood-color="rgba(0, 0, 0, 0.25)" result="color1Flood" />
+            <feComposite operator="in" in2="noise1Clipped" in="color1Flood" result="color1" />
+            <feMerge result="effect2_noise_98_36">
+                <feMergeNode in="effect1_innerShadow_98_36" />
+                <feMergeNode in="color1" />
+            </feMerge>
+        </filter>
+        <filter id="filter2_in_98_36" x="986" y="350" width="188.092" height="189.4"
+            filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape" />
+            <feColorMatrix in="SourceAlpha" type="matrix"
+                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+            <feMorphology radius="15" operator="erode" in="SourceAlpha"
+                result="effect1_innerShadow_98_36" />
+            <feOffset dy="4" />
+            <feGaussianBlur stdDeviation="2" />
+            <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1" />
+            <feColorMatrix type="matrix"
+                values="0 0 0 0 0.694118 0 0 0 0 0.180392 0 0 0 0 0.2 0 0 0 1 0" />
+            <feBlend mode="normal" in2="shape" result="effect1_innerShadow_98_36" />
+            <feTurbulence type="fractalNoise" baseFrequency="0.25 0.25" stitchTiles="stitch"
+                numOctaves="3" result="noise" seed="6947" />
+            <feColorMatrix in="noise" type="luminanceToAlpha" result="alphaNoise" />
+            <feComponentTransfer in="alphaNoise" result="coloredNoise1">
+                <feFuncA type="discrete"
+                    tableValues="1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 " />
+            </feComponentTransfer>
+            <feComposite operator="in" in2="effect1_innerShadow_98_36" in="coloredNoise1"
+                result="noise1Clipped" />
+            <feFlood flood-color="rgba(0, 0, 0, 0.25)" result="color1Flood" />
+            <feComposite operator="in" in2="noise1Clipped" in="color1Flood" result="color1" />
+            <feMerge result="effect2_noise_98_36">
+                <feMergeNode in="effect1_innerShadow_98_36" />
+                <feMergeNode in="color1" />
+            </feMerge>
+        </filter>
+        <filter id="filter3_d_98_36" x="785" y="126" width="350" height="350"
+            filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix" />
+            <feColorMatrix in="SourceAlpha" type="matrix"
+                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
+            <feOffset />
+            <feGaussianBlur stdDeviation="50" />
+            <feComposite in2="hardAlpha" operator="out" />
+            <feColorMatrix type="matrix"
+                values="0 0 0 0 0.85098 0 0 0 0 0.760784 0 0 0 0 0.254902 0 0 0 1 0" />
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_98_36" />
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_98_36" result="shape" />
+        </filter>
+        <clipPath id="clip0_98_36">
+            <rect width="1920" height="1080" fill="white" />
+        </clipPath>
+    </defs>
+</svg>
