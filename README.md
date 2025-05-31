@@ -18,6 +18,13 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/paolomalgarin?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
 <br>
+<br>
+
+> ## DID YOU KNOW?
+> The whale is larger than the owl. 
+
+<br>
+<br>
 
 <h2>GitHub Stats</h2>
    <img src="https://github-readme-stats.vercel.app/api?username=paolomalgarin&show_icons=true&theme=dark" alt="Paolo's GitHub Stats">
