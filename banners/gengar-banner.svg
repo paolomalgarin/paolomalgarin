@@ -59,6 +59,11 @@
             --enlightened-wall-color: var(--black);
         }
 
+        8% {
+            --light-color: var(--yellow);
+            --light-shadow-filter: url(#filter3_d_98_36);
+            --enlightened-wall-color: var(--gray);
+        }
         9% {
             --light-color: var(--black);
             --light-shadow-filter: none;
