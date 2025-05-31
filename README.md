@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Cats urine glows under a black light.
+> The Black Death reduced the population of Europe by one third in the period from 1347 to 1351.
 
 <br>
 <br>
