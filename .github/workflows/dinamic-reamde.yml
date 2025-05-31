@@ -16,21 +16,22 @@ jobs:
       - name: Get random fact
         id: random-fact
         run: |
+          # Chiamata HTTP all'API per ottenere un random fact
           FACT=$(curl -s "https://uselessfacts.jsph.pl/api/v2/facts/random" | jq -r '.text')
           echo "fact=${FACT}" >> $GITHUB_OUTPUT
 
       - name: Update README
         run: |
-          # Escape special characters for sed
+          # Escape caratteri speciali per sed
           ESCAPED_FACT=$(echo "${{ steps.random-fact.outputs.fact }}" | sed 's/[\/&]/\\&/g')
           
-          # Update the fact while preserving formatting
-          sed -i "/> ## DID YOU KNOW?/!b;n;c> $ESCAPED_FACT" README.md
+          # Aggiorna solo la riga del fatto mantenendo la formattazione
+          sed -i -e "/> \[!TIP]/{n;n; s/> .*/> ${ESCAPED_FACT}/}" README.md
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Update random fact" || echo "No changes to commit"
+          git commit -m "🔄 Update random fact" || echo "No changes to commit"
           git push
