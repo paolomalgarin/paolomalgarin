@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The Black Death reduced the population of Europe by one third in the period from 1347 to 1351.
+> The name of all continents in the world end with the same letter that they start with.
 
 <br>
 <br>
