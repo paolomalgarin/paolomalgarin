@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The name of all continents in the world end with the same letter that they start with.
+> Hersheys kissing the conveyor belt.
 
 <br>
 <br>
