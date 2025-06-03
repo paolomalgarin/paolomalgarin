@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Hersheys kissing the conveyor belt.
+> There is a seven letter word in the English language that contains ten words without rearranging any of its letters, therein: the, there, he, in, rein, her, here, ere, therein, herein.  
 
 <br>
 <br>
