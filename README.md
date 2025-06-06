@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The world record for spitting a watermelon seed is 65 feet 4 inches.
+> Telly Savalas and Louis Armstrong died on their birthdays.  
 
 <br>
 <br>
