@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Telly Savalas and Louis Armstrong died on their birthdays.  
+> The average lifespan of an eyelash is five months.
 
 <br>
 <br>
