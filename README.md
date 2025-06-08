@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The average lifespan of an eyelash is five months.
+> In Miconesia, coins are 12 feet across.
 
 <br>
 <br>
