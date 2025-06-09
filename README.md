@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> In Miconesia, coins are 12 feet across.
+> Honey is the only food which does not spoil.
 
 <br>
 <br>
