@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Honey is the only food which does not spoil.
+> The world record for spitting a watermelon seed is 65 feet 4 inches.
 
 <br>
 <br>
