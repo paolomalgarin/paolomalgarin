@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The world record for spitting a watermelon seed is 65 feet 4 inches.
+> The first contraceptive was crocodile dung used by the ancient Egyptians.
 
 <br>
 <br>
