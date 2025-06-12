@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The first contraceptive was crocodile dung used by the ancient Egyptians.
+> A palindrome is a sentence or group of sentences that reads the same backwards as it does forward: Ex:       
 
 <br>
 <br>
