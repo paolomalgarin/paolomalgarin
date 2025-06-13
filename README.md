@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> A palindrome is a sentence or group of sentences that reads the same backwards as it does forward: Ex:       
+> Venus is the only planet that rotates clockwise.
 
 <br>
 <br>
