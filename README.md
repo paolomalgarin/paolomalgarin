@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Venus is the only planet that rotates clockwise.
+> Most American car horns honk in the key of F.
 
 <br>
 <br>
