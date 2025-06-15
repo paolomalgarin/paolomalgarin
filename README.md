@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Most American car horns honk in the key of F.
+> In the average lifetime, a person will walk the equivalent of 5 times around the equator.
 
 <br>
 <br>
