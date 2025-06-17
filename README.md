@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> 70% of all boats sold are used for fishing.
+> Most toilets flush in E flat.
 
 <br>
 <br>
