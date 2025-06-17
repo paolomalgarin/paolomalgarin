@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> In the average lifetime, a person will walk the equivalent of 5 times around the equator.
+> 70% of all boats sold are used for fishing.
 
 <br>
 <br>
