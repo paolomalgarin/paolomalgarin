@@ -1,4 +1,5 @@
 name: Update Random Fact
+
 on:
   schedule:
     - cron: '0 0 * * *'  # Runs daily at 00:00 UTC
@@ -9,40 +10,28 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
         with:
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}  # Critical for push permissions
-
-      - name: Setup jq
-        run: sudo apt-get install -y jq  # Ensure jq is installed
 
       - name: Get random fact
         id: random-fact
         run: |
-          # Handle API failures and multi-line facts
-          RESPONSE=$(curl -sf "https://uselessfacts.jsph.pl/api/v2/facts/random" || echo '{"text":"Failed to fetch fact. Try again tomorrow!"}')
-          FACT=$(echo "$RESPONSE" | jq -r '.text' | tr '\n' ' ' | sed 's/"/\\"/g')
-          echo "fact=${FACT}" >> $GITHUB_OUTPUT
+          # Fetch a random fact
+          FACT="$(curl -s 'https://uselessfacts.jsph.pl/api/v2/facts/random' | jq -r '.text')"
+          # Escape / & and backticks so sed won’t choke
+          ESCAPED_FACT="$(printf '%s' "$FACT" | sed 's/[\/&`]/\\&/g')"
+          echo "fact=$ESCAPED_FACT" >> $GITHUB_OUTPUT
 
       - name: Update README
         run: |
-          # Handle empty facts and special characters
-          ESCAPED_FACT=$(echo "${{ steps.random-fact.outputs.fact }}" | sed 's/[\/&]/\\&/g; s/$/\\/')
-          
-          # More robust pattern matching
-          sed -i -e "/> \[!TIP]/{n;n; s|>.*|> ${ESCAPED_FACT}|}" README.md
+          # Replace the 3rd line after the "> [!TIP]" marker
+          sed -i -e "/> \[!TIP]/{n;n; s/> .*/> ${{ steps.random-fact.outputs.fact }}/}" README.md
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          
-          # Only commit if changes exist
-          if git diff-index --quiet HEAD --; then
-            echo "No changes detected"
-          else
-            git commit -m "🔄 Update random fact"
-            git push
-          fi
+          git commit -m "🔄 Update random fact" || echo "No changes to commit"
+          git push
