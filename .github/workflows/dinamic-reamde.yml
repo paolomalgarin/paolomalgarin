@@ -9,29 +9,40 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}  # Critical for push permissions
+
+      - name: Setup jq
+        run: sudo apt-get install -y jq  # Ensure jq is installed
 
       - name: Get random fact
         id: random-fact
         run: |
-          # Chiamata HTTP all'API per ottenere un random fact
-          FACT=$(curl -s "https://uselessfacts.jsph.pl/api/v2/facts/random" | jq -r '.text')
+          # Handle API failures and multi-line facts
+          RESPONSE=$(curl -sf "https://uselessfacts.jsph.pl/api/v2/facts/random" || echo '{"text":"Failed to fetch fact. Try again tomorrow!"}')
+          FACT=$(echo "$RESPONSE" | jq -r '.text' | tr '\n' ' ' | sed 's/"/\\"/g')
           echo "fact=${FACT}" >> $GITHUB_OUTPUT
 
       - name: Update README
         run: |
-          # Escape caratteri speciali per sed
-          ESCAPED_FACT=$(echo "${{ steps.random-fact.outputs.fact }}" | sed 's/[\/&]/\\&/g')
+          # Handle empty facts and special characters
+          ESCAPED_FACT=$(echo "${{ steps.random-fact.outputs.fact }}" | sed 's/[\/&]/\\&/g; s/$/\\/')
           
-          # Aggiorna solo la riga del fatto mantenendo la formattazione
-          sed -i -e "/> \[!TIP]/{n;n; s/> .*/> ${ESCAPED_FACT}/}" README.md
+          # More robust pattern matching
+          sed -i -e "/> \[!TIP]/{n;n; s|>.*|> ${ESCAPED_FACT}|}" README.md
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "🔄 Update random fact" || echo "No changes to commit"
-          git push
+          
+          # Only commit if changes exist
+          if git diff-index --quiet HEAD --; then
+            echo "No changes detected"
+          else
+            git commit -m "🔄 Update random fact"
+            git push
+          fi
