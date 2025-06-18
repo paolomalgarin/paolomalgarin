@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Most toilets flush in E flat.
+> A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop.
 
 <br>
 <br>
