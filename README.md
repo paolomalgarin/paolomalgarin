@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> A full-loaded supertanker traveling at normal speed takes at least 20 minutes to stop.
+> In Miconesia, coins are 12 feet across.
 
 <br>
 <br>
