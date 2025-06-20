@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> In Miconesia, coins are 12 feet across.
+> Hot water is heavier than cold.
 
 <br>
 <br>
