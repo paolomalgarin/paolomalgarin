@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Hot water is heavier than cold.
+> The longest one-syllable word in the English language is screeched.
 
 <br>
 <br>
