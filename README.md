@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The longest one-syllable word in the English language is screeched.
+> The following sentence: `A rough-coated, dough-faced, thoughtful ploughman strode through the streets of Scarborough; after falling into a slough, he coughed and hiccoughed.` Contains the nine different pronunciations of ough in the English Language.
 
 <br>
 <br>
