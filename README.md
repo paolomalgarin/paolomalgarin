@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The highest per capita Jell-O comsumption in the US is Des Moines.
+> NBA superstar Michael Jordan was originally cut from his high school basketball team.
 
 <br>
 <br>
