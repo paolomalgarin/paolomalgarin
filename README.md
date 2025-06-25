@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> NBA superstar Michael Jordan was originally cut from his high school basketball team.
+> The very first bomb dropped by the Allies on Berlin during World War II Killed the only elephant in the Berlin Zoo.
 
 <br>
 <br>
