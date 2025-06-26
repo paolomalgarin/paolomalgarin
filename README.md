@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The very first bomb dropped by the Allies on Berlin during World War II Killed the only elephant in the Berlin Zoo.
+> Van Gogh only sold one painting when he was alive.
 
 <br>
 <br>
