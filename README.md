@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Dreamt is the only English word that ends in the letters mt.
+> Women blink nearly twice as much as men.
 
 <br>
 <br>
