@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Women blink nearly twice as much as men.
+> American Airlines saved 0,000 in 1987 by eliminating one olive from each salad served in first-class.
 
 <br>
 <br>
