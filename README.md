@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The king of hearts is the only king without a mustache.
+> More people are killed annually by donkeys than airplane crashes.
 
 <br>
 <br>
