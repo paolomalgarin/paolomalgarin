@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> More people are killed annually by donkeys than airplane crashes.
+> The most common street name in the U.S. is Second Street.
 
 <br>
 <br>
