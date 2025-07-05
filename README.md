@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Pamela Anderson Lee is Canada`s Centennial Baby, being the first baby born on the centennial anniversary of Canada`s independence.
+> American Airlines saved 0,000 in 1987 by eliminating one olive from each salad served in first-class.
 
 <br>
 <br>
