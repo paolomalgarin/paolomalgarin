@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> American Airlines saved 0,000 in 1987 by eliminating one olive from each salad served in first-class.
+> Most lipstick contains fish scales!
 
 <br>
 <br>
