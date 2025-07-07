@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Most lipstick contains fish scales!
+> The average woman consumes 6 lbs of lipstick in her lifetime.
 
 <br>
 <br>
