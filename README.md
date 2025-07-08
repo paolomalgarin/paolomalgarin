@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The average woman consumes 6 lbs of lipstick in her lifetime.
+> The storage capacity of human brain exceeds 4 Terabytes.
 
 <br>
 <br>
