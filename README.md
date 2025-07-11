@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The buzz from an electric razor in America plays in the key of B flat; Key of G in England.
+> You burn more calories sleeping than you do watching TV.
 
 <br>
 <br>
