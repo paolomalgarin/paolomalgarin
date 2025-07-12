@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> You burn more calories sleeping than you do watching TV.
+> The only real person to ever to appear on a pez dispenser was Betsy Ross.
 
 <br>
 <br>
