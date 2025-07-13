@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The only real person to ever to appear on a pez dispenser was Betsy Ross.
+> The plastic things on the end of shoelaces are called aglets.
 
 <br>
 <br>
