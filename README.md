@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The plastic things on the end of shoelaces are called aglets.
+> Telly Savalas and Louis Armstrong died on their birthdays.  
 
 <br>
 <br>
