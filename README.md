@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Telly Savalas and Louis Armstrong died on their birthdays.  
+> 5,840 people with pillow related injuries checked into U.S. emergency rooms in 1992.
 
 <br>
 <br>
