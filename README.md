@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> 5,840 people with pillow related injuries checked into U.S. emergency rooms in 1992.
+> Between 25% and 33% of the population sneeze when exposed to light.
 
 <br>
 <br>
