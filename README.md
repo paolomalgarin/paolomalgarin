@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Between 25% and 33% of the population sneeze when exposed to light.
+> To escape the grip of a crocodile`s jaws, push your thumbs into its eyeballs - it will let you go instantly.
 
 <br>
 <br>
