@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> To escape the grip of a crocodile`s jaws, push your thumbs into its eyeballs - it will let you go instantly.
+> The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  
 
 <br>
 <br>
