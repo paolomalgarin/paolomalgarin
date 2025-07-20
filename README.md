@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The muzzle of a lion is like a fingerprint - no two lions have the same pattern of whiskers.  
+> The Eisenhower interstate system requires that one mile in every five must be straight in case of war or emergency, they could be used as airstrips.
 
 <br>
 <br>
