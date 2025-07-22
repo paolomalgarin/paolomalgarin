@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Rubber bands last longer when refrigerated.  
+> You burn more calories sleeping than you do watching TV.
 
 <br>
 <br>
