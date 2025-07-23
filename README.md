@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> You burn more calories sleeping than you do watching TV.
+> 70% of all boats sold are used for fishing.
 
 <br>
 <br>
