@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> 70% of all boats sold are used for fishing.
+> The Vatican city registered 0 births in 1983
 
 <br>
 <br>
