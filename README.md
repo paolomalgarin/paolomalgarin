@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The Vatican city registered 0 births in 1983
+> 400-quarter pounders can be made from 1 cow.
 
 <br>
 <br>
