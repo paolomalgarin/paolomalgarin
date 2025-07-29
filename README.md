@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Daylight Saving Time is not observed in most of the state of Arizona and parts of Indiana.
+> Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag.
 
 <br>
 <br>
