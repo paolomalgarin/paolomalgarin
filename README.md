@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Deborah Winger did the voice of E.T.
+> 2,000 pounds of space dust and other space debris fall on the Earth every day.
 
 <br>
 <br>
