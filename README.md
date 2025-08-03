@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> 2,000 pounds of space dust and other space debris fall on the Earth every day.
+> 100% of lottery winners do gain weight
 
 <br>
 <br>
