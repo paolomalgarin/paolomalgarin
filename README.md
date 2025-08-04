@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> 100% of lottery winners do gain weight
+> Thirty-five percent of people who use personal ads for dating are already married.
 
 <br>
 <br>
