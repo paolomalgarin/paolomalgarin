@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Thirty-five percent of people who use personal ads for dating are already married.
+> The Minneapolis phone book has 21 pages of Andersons.
 
 <br>
 <br>
