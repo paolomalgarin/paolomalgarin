@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The Minneapolis phone book has 21 pages of Andersons.
+> A giraffe can go without water longer than a camel.
 
 <br>
 <br>
