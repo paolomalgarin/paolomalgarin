@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> If you have three quarters, four dimes, and four pennies, you have .19, the largest amount of money in coins without being able to make change for a dollar.
+> 3.9% of all women do not wear underwear.
 
 <br>
 <br>
