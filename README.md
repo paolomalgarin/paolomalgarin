@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Sex burns 360 calories per hour.
+> The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons.
 
 <br>
 <br>
