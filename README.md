@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons.
+> Firehouses have circular stairways originating from the old days when the engines were pulled by horses. The horses were stabled on the ground floor and figured out how to walk up straight staircases.
 
 <br>
 <br>
