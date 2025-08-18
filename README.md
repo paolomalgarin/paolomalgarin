@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> A `jiffy` is a unit of time for 1/100th of a second.
+> Hot water is heavier than cold.
 
 <br>
 <br>
