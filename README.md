@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Winston Churchill was born in a ladies` room during a dance.
+> Honeybees have a type of hair on their eyes!
 
 <br>
 <br>
