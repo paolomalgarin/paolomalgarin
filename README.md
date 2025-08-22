@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Honeybees have a type of hair on their eyes!
+> In the last 4000 years, no new animals have been domesticated.
 
 <br>
 <br>
