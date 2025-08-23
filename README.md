@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> In the last 4000 years, no new animals have been domesticated.
+> A crocodile cannot stick its tongue out.
 
 <br>
 <br>
