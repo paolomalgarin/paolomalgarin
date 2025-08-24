@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> A crocodile cannot stick its tongue out.
+> In Bangladesh, kids as young as 15 can be jailed for cheating on their finals!
 
 <br>
 <br>
