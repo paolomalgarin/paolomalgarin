@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> In Bangladesh, kids as young as 15 can be jailed for cheating on their finals!
+> Prince Charles is an avid collecter of toilet seats.
 
 <br>
 <br>
