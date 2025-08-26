@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Prince Charles is an avid collecter of toilet seats.
+> Owls are one of the only birds who can see the color blue!
 
 <br>
 <br>
