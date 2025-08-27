@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Owls are one of the only birds who can see the color blue!
+> The S in Harry S. Truman did not stand for anything.
 
 <br>
 <br>
