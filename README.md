@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The S in Harry S. Truman did not stand for anything.
+> 3.9% of all women do not wear underwear.
 
 <br>
 <br>
