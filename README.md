@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> 3.9% of all women do not wear underwear.
+> To testify was based on men in the Roman court swearing to a statement made by swearing on their testicles.
 
 <br>
 <br>
