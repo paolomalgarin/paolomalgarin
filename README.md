@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> To testify was based on men in the Roman court swearing to a statement made by swearing on their testicles.
+> Because of the rotation of the earth, an object can be thrown farther if it is thrown west.
 
 <br>
 <br>
