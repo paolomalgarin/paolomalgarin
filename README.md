@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Because of the rotation of the earth, an object can be thrown farther if it is thrown west.
+> This common everyday occurrence composed of 59% nitrogen, 21% hydrogen, and 9% dioxide is called a `fart`.
 
 <br>
 <br>
