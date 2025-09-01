@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> This common everyday occurrence composed of 59% nitrogen, 21% hydrogen, and 9% dioxide is called a `fart`.
+> Leonardo da Vinci could write with one hand while drawing with the other
 
 <br>
 <br>
