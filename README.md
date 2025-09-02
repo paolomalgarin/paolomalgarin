@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Leonardo da Vinci could write with one hand while drawing with the other
+> Telly Savalas and Louis Armstrong died on their birthdays.  
 
 <br>
 <br>
