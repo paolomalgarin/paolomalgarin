@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Telly Savalas and Louis Armstrong died on their birthdays.  
+> The serial number of the first MAC ever produced was 2001.
 
 <br>
 <br>
