@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> There were always 56 curls in Shirley Temple`s hair.
+> 400-quarter pounders can be made from 1 cow.
 
 <br>
 <br>
