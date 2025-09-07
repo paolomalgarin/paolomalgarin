@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> 400-quarter pounders can be made from 1 cow.
+>  was Harrison Ford`s idea so that he could take a bathroom break.
 
 <br>
 <br>
