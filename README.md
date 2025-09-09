@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Shakespeare spelled his OWN name several different ways.
+> Nearly 80% of all animals on earth have six legs.
 
 <br>
 <br>
