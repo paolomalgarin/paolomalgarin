@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Nearly 80% of all animals on earth have six legs.
+> The sperm of a mouse is actually longer than the sperm of an elephant.
 
 <br>
 <br>
