@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Butterflies taste with their hind feet.
+> There are no clocks in Las Vegas gambling casinos.
 
 <br>
 <br>
