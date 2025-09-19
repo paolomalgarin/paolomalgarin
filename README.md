@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> On the ground, a group of geese is a gaggle, in the sky it is a skein.
+> In The Empire Strikes Back there is a potato hidden in the asteroid field
 
 <br>
 <br>
