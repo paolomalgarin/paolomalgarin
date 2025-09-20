@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> In The Empire Strikes Back there is a potato hidden in the asteroid field
+> The longest word comprised of one row on the keyboard is: TYPEWRITER
 
 <br>
 <br>
