@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> A spider has transparent blood.
+> The state of Florida is bigger than England.
 
 <br>
 <br>
