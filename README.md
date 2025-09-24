@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The state of Florida is bigger than England.
+> There are 336 dimples on a regulation golf ball.
 
 <br>
 <br>
