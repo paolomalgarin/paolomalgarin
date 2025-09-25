@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> There are 336 dimples on a regulation golf ball.
+> One quarter of the bones in your body, are in your feet!
 
 <br>
 <br>
