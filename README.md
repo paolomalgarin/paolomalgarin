@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> One quarter of the bones in your body, are in your feet!
+> Table tennis balls have been known to travel off the paddle at speeds up to 160 km/hr. 
 
 <br>
 <br>
