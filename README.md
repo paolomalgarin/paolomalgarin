@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Intelligent people have more zinc and copper in their hair.
+> Average number of people airborne over the US any given hour: 61,000.
 
 <br>
 <br>
