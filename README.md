@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Average number of people airborne over the US any given hour: 61,000.
+> 0.3% of all road accidents in Canada involve a Moose.
 
 <br>
 <br>
