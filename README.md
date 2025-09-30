@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> 0.3% of all road accidents in Canada involve a Moose.
+> When possums are playing `possum`, they are not playing. They actually pass out from sheer terror.
 
 <br>
 <br>
