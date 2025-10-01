@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> When possums are playing `possum`, they are not playing. They actually pass out from sheer terror.
+> Some individuals express concern sharing their soap, rightly so, considering 75% of all people wash from top to bottom.
 
 <br>
 <br>
