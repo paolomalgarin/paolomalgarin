@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Some individuals express concern sharing their soap, rightly so, considering 75% of all people wash from top to bottom.
+> More than 50% of the people in the world have never made or received a telephone call.
 
 <br>
 <br>
