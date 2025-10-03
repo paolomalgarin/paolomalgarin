@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> More than 50% of the people in the world have never made or received a telephone call.
+> In space, astronauts are unable to cry, because there is no gravity and the tears won`t flow.
 
 <br>
 <br>
