@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> In space, astronauts are unable to cry, because there is no gravity and the tears won`t flow.
+> Sigmund Freud had a morbid fear of ferns.
 
 <br>
 <br>
