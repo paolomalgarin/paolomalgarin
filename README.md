@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Sigmund Freud had a morbid fear of ferns.
+> The catfish has the most taste buds of all animals, having over 27,000 of them.
 
 <br>
 <br>
