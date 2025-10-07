@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The catfish has the most taste buds of all animals, having over 27,000 of them.
+> An average human scalp has 100,000 hairs.
 
 <br>
 <br>
