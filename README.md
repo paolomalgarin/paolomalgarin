@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Icelanders consume more Coca-Cola per Capita than any other nation.
+> The only real person to ever to appear on a pez dispenser was Betsy Ross.
 
 <br>
 <br>
