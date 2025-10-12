@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The only real person to ever to appear on a pez dispenser was Betsy Ross.
+> The ant always falls over on its right side when intoxicated.
 
 <br>
 <br>
