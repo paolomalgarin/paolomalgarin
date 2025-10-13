@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The ant always falls over on its right side when intoxicated.
+> In Quebec, there is an old law that states margarine must be a different color than butter.
 
 <br>
 <br>
