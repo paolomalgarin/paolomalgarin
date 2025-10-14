@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> In Quebec, there is an old law that states margarine must be a different color than butter.
+> The angel falls in Venezuela are nearly 20 times taller than Niagara Falls.
 
 <br>
 <br>
