@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The angel falls in Venezuela are nearly 20 times taller than Niagara Falls.
+> Nerve impulses to and from the brain travel as fast as 170 miles (274 km) per hour.
 
 <br>
 <br>
