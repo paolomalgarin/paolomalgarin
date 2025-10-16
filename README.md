@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Nerve impulses to and from the brain travel as fast as 170 miles (274 km) per hour.
+> Cephalacaudal recapitulation is the reason our extremities develop faster than the rest of us. 
 
 <br>
 <br>
