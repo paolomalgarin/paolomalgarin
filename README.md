@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Cephalacaudal recapitulation is the reason our extremities develop faster than the rest of us. 
+> The ZIP in “ZIP code” means Zoning Improvement Plan.
 
 <br>
 <br>
