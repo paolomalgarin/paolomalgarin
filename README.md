@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The ZIP in “ZIP code” means Zoning Improvement Plan.
+> 14% of all facts and statistics are made up and 27% of people know that fact.
 
 <br>
 <br>
