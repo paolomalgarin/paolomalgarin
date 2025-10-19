@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> 14% of all facts and statistics are made up and 27% of people know that fact.
+> Camel’s have three eyelids.
 
 <br>
 <br>
