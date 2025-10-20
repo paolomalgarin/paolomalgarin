@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Camel’s have three eyelids.
+> Frank Lloyd Wright's son invented Lincoln Logs.
 
 <br>
 <br>
