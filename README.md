@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Frank Lloyd Wright's son invented Lincoln Logs.
+> The first CD pressed in the US was Bruce Springsteen`s `Born in the USA`
 
 <br>
 <br>
