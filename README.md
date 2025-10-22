@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The first CD pressed in the US was Bruce Springsteen`s `Born in the USA`
+> Until 1994, world maps and globes sold in Albania only had Albania on them.
 
 <br>
 <br>
