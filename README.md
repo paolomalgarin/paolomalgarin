@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Until 1994, world maps and globes sold in Albania only had Albania on them.
+> The original name for butterfly was flutterby.
 
 <br>
 <br>
