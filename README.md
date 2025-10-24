@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The original name for butterfly was flutterby.
+> Donald Duck comics were banned from Finland because he doesn`t wear pants!
 
 <br>
 <br>
