@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Donald Duck comics were banned from Finland because he doesn`t wear pants!
+> Shakespeare is quoted 33,150 times in the Oxford English dictionary.
 
 <br>
 <br>
