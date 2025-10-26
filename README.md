@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Shakespeare is quoted 33,150 times in the Oxford English dictionary.
+> The human body is comprised of 80% water.
 
 <br>
 <br>
