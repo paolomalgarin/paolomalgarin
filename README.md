@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The human body is comprised of 80% water.
+> The only capital letter in the Roman alphabet with exactly one end point is P. 
 
 <br>
 <br>
