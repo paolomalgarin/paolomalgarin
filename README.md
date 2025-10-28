@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The only capital letter in the Roman alphabet with exactly one end point is P. 
+> 98% of all murders and rapes are by a close family member or friend of the victim.
 
 <br>
 <br>
