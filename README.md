@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> 98% of all murders and rapes are by a close family member or friend of the victim.
+> the bird is the word
 
 <br>
 <br>
