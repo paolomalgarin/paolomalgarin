@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> the bird is the word
+> Every time you lick a stamp, you consume 1/10 of a calorie.
 
 <br>
 <br>
