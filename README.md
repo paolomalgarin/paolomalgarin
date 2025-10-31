@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Every time you lick a stamp, you consume 1/10 of a calorie.
+> 40% of all people who come to a party in your home snoop in your medicine cabinet
 
 <br>
 <br>
