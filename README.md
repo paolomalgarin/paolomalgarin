@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> 40% of all people who come to a party in your home snoop in your medicine cabinet
+> Recycling one glass jar, saves enough energy to watch T.V for 3 hours!
 
 <br>
 <br>
