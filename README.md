@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Recycling one glass jar, saves enough energy to watch T.V for 3 hours!
+> One in seven workers in Boston, Massachusetts walks to work.
 
 <br>
 <br>
