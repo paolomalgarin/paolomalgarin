@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> One in seven workers in Boston, Massachusetts walks to work.
+> Every time you lick a stamp, you consume 1/10 of a calorie.
 
 <br>
 <br>
