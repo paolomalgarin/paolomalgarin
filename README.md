@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Every time you lick a stamp, you consume 1/10 of a calorie.
+> Thomas Edison, acclaimed inventor of the light bulb, was afraid of the dark.
 
 <br>
 <br>
