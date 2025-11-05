@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Thomas Edison, acclaimed inventor of the light bulb, was afraid of the dark.
+> In the White House, there are 13,092 knives, forks and spoons!
 
 <br>
 <br>
