@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,mysql" /> <br>
   <img src="https://skillicons.dev/icons?i=php,html,css,js" /> <br>
-  <img src="https://skillicons.dev/icons?i=react,astro,nodejs" /> <br>
+  <img src="https://skillicons.dev/icons?i=c,react,nodejs" /> <br>
 </p>
 
 
