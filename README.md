@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> In the White House, there are 13,092 knives, forks and spoons!
+> ”Judge Judy” has a 5,000,000 salary, while Supreme Court Justice Ginsberg has a 90,100 salary.
 
 <br>
 <br>
