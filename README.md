@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> ”Judge Judy” has a 5,000,000 salary, while Supreme Court Justice Ginsberg has a 90,100 salary.
+> Ninety percent of New York City cabbies are recently arrived immigrants.
 
 <br>
 <br>
