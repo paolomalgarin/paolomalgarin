@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Ninety percent of New York City cabbies are recently arrived immigrants.
+> The average raindrop falls at 7 miles per hour.
 
 <br>
 <br>
