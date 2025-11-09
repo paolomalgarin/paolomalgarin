@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The average raindrop falls at 7 miles per hour.
+> In New York State, it is illegal to but any alcohol on Sundays before noon.
 
 <br>
 <br>
