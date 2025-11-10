@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> In New York State, it is illegal to but any alcohol on Sundays before noon.
+> The average person`s left hand does 56% of the typing.
 
 <br>
 <br>
