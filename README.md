@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The average person`s left hand does 56% of the typing.
+> The human heart creates enough pressure when it pumps out to the body to squirt blood 30 feet.
 
 <br>
 <br>
