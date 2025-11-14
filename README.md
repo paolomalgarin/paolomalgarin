@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Frank Lloyd Wright's son invented Lincoln Logs.
+> Every year 11,000 Americans injure themselves while trying out bizarre sexual positions.
 
 <br>
 <br>
