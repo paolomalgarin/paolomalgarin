@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Every year 11,000 Americans injure themselves while trying out bizarre sexual positions.
+> Babies are born without knee caps. They don't appear until the child reaches 2-6 years of age.
 
 <br>
 <br>
