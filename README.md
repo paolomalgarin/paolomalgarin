@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Babies are born without knee caps. They don't appear until the child reaches 2-6 years of age.
+> The word “lethologica” describes the state of not being able to remember the word you want.
 
 <br>
 <br>
