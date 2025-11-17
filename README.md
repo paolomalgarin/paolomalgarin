@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The word “lethologica” describes the state of not being able to remember the word you want.
+> One in ten people live on an island.
 
 <br>
 <br>
