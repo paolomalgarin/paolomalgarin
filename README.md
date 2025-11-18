@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> One in ten people live on an island.
+> Shakespeare invented the words “assassination” and “bump.”
 
 <br>
 <br>
