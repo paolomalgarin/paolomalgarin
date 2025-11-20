@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Shakespeare invented the words “assassination” and “bump.”
+> More people speak English in China than the United States.
 
 <br>
 <br>
