@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> More people speak English in China than the United States.
+> The average life of a taste bud is 10 days.
 
 <br>
 <br>
