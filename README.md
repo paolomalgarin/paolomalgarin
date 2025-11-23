@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The longest word in the English language, according to the Oxford English Dictionary, is: pneumonoultramicroscopicsilicovolcanoconiosis..  
+> If one spells out numbers, they would have to count to One Thousand before coming across the letter A.
 
 <br>
 <br>
