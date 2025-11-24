@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> If one spells out numbers, they would have to count to One Thousand before coming across the letter A.
+> Spain leads the world in cork production
 
 <br>
 <br>
