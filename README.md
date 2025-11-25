@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Spain leads the world in cork production
+> There are more than 40,000 characters in the Chinese script.
 
 <br>
 <br>
