@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> There are more than 40,000 characters in the Chinese script.
+> Dr. Kellogg introduced Kellogg`s Corn Flakes in hopes that it would reduce masturbation.
 
 <br>
 <br>
