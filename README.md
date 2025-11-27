@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Dr. Kellogg introduced Kellogg`s Corn Flakes in hopes that it would reduce masturbation.
+> Honking of car horns for a couple that just got married is an old superstition to insure great sex.
 
 <br>
 <br>
