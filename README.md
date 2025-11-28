@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Honking of car horns for a couple that just got married is an old superstition to insure great sex.
+> In a survey of 200000 ostriches over 80 years, not one tried to bury its head in the sand.
 
 <br>
 <br>
