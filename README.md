@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> In a survey of 200000 ostriches over 80 years, not one tried to bury its head in the sand.
+> Montpelier, Vermont is the only state capital without a McDonalds.
 
 <br>
 <br>
