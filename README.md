@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Montpelier, Vermont is the only state capital without a McDonalds.
+> Czechs are the biggest consumers of beer per male in the world.
 
 <br>
 <br>
