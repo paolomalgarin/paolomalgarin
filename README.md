@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Czechs are the biggest consumers of beer per male in the world.
+> Bruce Lee was so fast that they had to slow the film down so you could see his moves.
 
 <br>
 <br>
