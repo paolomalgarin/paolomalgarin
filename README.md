@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Bruce Lee was so fast that they had to slow the film down so you could see his moves.
+> The international telephone dialing code for Antarctica is 672.
 
 <br>
 <br>
