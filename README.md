@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The international telephone dialing code for Antarctica is 672.
+> When you sneeze, all your bodily functions stop even your heart.
 
 <br>
 <br>
