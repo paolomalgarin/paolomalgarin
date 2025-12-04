@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> When you sneeze, all your bodily functions stop even your heart.
+> Sir Isaac Newton was only 23 years old when he discovered the law of universal gravitation.
 
 <br>
 <br>
