@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Sir Isaac Newton was only 23 years old when he discovered the law of universal gravitation.
+> The Michelin man is known as Mr. Bib. His name was Bibendum in the company’s first ads in 1896.
 
 <br>
 <br>
