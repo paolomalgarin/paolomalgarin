@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The Michelin man is known as Mr. Bib. His name was Bibendum in the company’s first ads in 1896.
+> One in fourteen women in America is a natural blonde. Only one in sixteen men is.
 
 <br>
 <br>
