@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> One in fourteen women in America is a natural blonde. Only one in sixteen men is.
+> An American urologist bought Napoleon’s penis for 0,000.
 
 <br>
 <br>
