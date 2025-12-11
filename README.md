@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Length of beard an average man would grow if he never shaved 27.5 feet
+> Maine is the only state (in USA) whose name is just one syllable. 
 
 <br>
 <br>
