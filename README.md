@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Maine is the only state (in USA) whose name is just one syllable. 
+> A chameleon's tongue is twice the length of its body.
 
 <br>
 <br>
