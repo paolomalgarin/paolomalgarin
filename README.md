@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Babies are most likely to be born on Tuesdays.
+> Recycling one glass jar, saves enough energy to watch T.V for 3 hours!
 
 <br>
 <br>
