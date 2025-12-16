@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Recycling one glass jar, saves enough energy to watch T.V for 3 hours!
+> One-fourth of the world`s population lives on less than 00 a year.  Ninety million people survive on less than 5 a year.
 
 <br>
 <br>
