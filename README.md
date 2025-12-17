@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> One-fourth of the world`s population lives on less than 00 a year.  Ninety million people survive on less than 5 a year.
+> Shakespeare invented the words “assassination” and “bump.”
 
 <br>
 <br>
