@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Shakespeare invented the words “assassination” and “bump.”
+> The most common street name in the U.S. is Second Street.
 
 <br>
 <br>
