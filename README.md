@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The most common street name in the U.S. is Second Street.
+> 15 million blood cells are destroyed in the human body every second.
 
 <br>
 <br>
