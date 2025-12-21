@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Studies have shown that children laugh an average of 300 times/day and adults 17 times/day, making the average child more optimistic, curious, and creative than the adult.
+> Alfred Hitchcock didn`t have a belly button. It was eliminated when he was sewn up after surgery.
 
 <br>
 <br>
