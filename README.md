@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Alfred Hitchcock didn`t have a belly button. It was eliminated when he was sewn up after surgery.
+> In “Silence of the Lambs”, Hannibal Lector (Anthony Hopkins) never blinks.
 
 <br>
 <br>
