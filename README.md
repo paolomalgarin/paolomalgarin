@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> In “Silence of the Lambs”, Hannibal Lector (Anthony Hopkins) never blinks.
+> When the Titanic sank, 2228 people were on it. Only 706 survived.
 
 <br>
 <br>
