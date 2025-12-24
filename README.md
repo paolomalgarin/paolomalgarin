@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> When the Titanic sank, 2228 people were on it. Only 706 survived.
+> The mask worn by Michael Myers in the original Halloween was actually a Captain Kirk mask painted white.
 
 <br>
 <br>
