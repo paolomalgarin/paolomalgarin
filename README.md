@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The mask worn by Michael Myers in the original Halloween was actually a Captain Kirk mask painted white.
+> Pepsi originally contained pepsin, thus the name. 
 
 <br>
 <br>
