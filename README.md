@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Pepsi originally contained pepsin, thus the name. 
+> Chocolate can kill dogs; it directly affects their heart and nervous system.
 
 <br>
 <br>
