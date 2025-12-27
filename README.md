@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Chocolate can kill dogs; it directly affects their heart and nervous system.
+> Shakespeare is quoted 33,150 times in the Oxford English dictionary.
 
 <br>
 <br>
