@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Shakespeare is quoted 33,150 times in the Oxford English dictionary.
+> Pearls melt in vinegar.
 
 <br>
 <br>
