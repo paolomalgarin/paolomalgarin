@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Pearls melt in vinegar.
+> Jamaica has the most churches per square mile than any other country in the world.
 
 <br>
 <br>
