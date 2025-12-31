@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Jamaica has the most churches per square mile than any other country in the world.
+> 111,111,111 x 111,111,111 = 12,345,678,987,654,321
 
 <br>
 <br>
