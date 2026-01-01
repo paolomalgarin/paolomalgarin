@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> 111,111,111 x 111,111,111 = 12,345,678,987,654,321
+> Honeybees have a type of hair on their eyes!
 
 <br>
 <br>
