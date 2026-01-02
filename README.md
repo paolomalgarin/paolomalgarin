@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Honeybees have a type of hair on their eyes!
+> About 200,000,000 M&Ms are sold each day in the United States.
 
 <br>
 <br>
