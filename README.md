@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> About 200,000,000 M&Ms are sold each day in the United States.
+> The sweat drops drawn in cartoon comic strips are called pleuts.
 
 <br>
 <br>
