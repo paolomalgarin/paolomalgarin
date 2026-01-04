@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The sweat drops drawn in cartoon comic strips are called pleuts.
+> In eighteenth-century English gambling dens, there was an employee whose only job was to swallow the dice if there was a police raid.
 
 <br>
 <br>
