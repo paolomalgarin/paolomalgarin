@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> In eighteenth-century English gambling dens, there was an employee whose only job was to swallow the dice if there was a police raid.
+> The citrus soda 7-UP was created in 1929; `7` was selected after the original 7-ounce containers and `UP` for the direction of the bubbles.
 
 <br>
 <br>
