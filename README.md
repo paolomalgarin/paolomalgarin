@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The average person will accidentally eat just under a pound of insects every year.
+> Los Angeles` full name `El Pueblo de Nuestra Senora la Reina de Los Angeles de Porciuncula` is reduced to 3.63% of its size in the abbreviation `L.A.`.
 
 <br>
 <br>
