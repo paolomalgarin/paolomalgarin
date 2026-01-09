@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Los Angeles` full name `El Pueblo de Nuestra Senora la Reina de Los Angeles de Porciuncula` is reduced to 3.63% of its size in the abbreviation `L.A.`.
+> At the height of its power in 400 BC, the Greek city of Sparta had 25,000 citizens and 500,000 slaves.
 
 <br>
 <br>
