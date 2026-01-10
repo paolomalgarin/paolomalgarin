@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> At the height of its power in 400 BC, the Greek city of Sparta had 25,000 citizens and 500,000 slaves.
+> The citrus soda 7-UP was created in 1929; `7` was selected after the original 7-ounce containers and `UP` for the direction of the bubbles.
 
 <br>
 <br>
