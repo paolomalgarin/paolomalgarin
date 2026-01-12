@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The country code for Russia is 007.
+> In the U.S, Frisbees outsell footballs, baseballs and basketballs combined.
 
 <br>
 <br>
