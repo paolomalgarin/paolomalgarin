@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> In the U.S, Frisbees outsell footballs, baseballs and basketballs combined.
+> It takes more calories to eat a piece of celery than the celery has in it to begin with.
 
 <br>
 <br>
