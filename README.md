@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> It takes more calories to eat a piece of celery than the celery has in it to begin with.
+> null
 
 <br>
 <br>
