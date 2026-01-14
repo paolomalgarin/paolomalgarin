@@ -27,7 +27,8 @@
 <br>
 
 <h2>GitHub Stats</h2>
-   <img src="https://github-readme-stats.vercel.app/api?username=paolomalgarin&show_icons=true&theme=dark" alt="Paolo's GitHub Stats">
+
+![GitHub Streak](https://github-readme-stats.tuhidulhossain.com/api/stats?username=paolomalgarin&theme=github_dark)
 
 <br>
 Feel free to explore my repositories and connect with me! 🤝
