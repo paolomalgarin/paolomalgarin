@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> null
+> Broccoli and cauliflower are the only vegetables that are flowers.
 
 <br>
 <br>
