@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Broccoli and cauliflower are the only vegetables that are flowers.
+> Ninety percent of New York City cabbies are recently arrived immigrants.
 
 <br>
 <br>
