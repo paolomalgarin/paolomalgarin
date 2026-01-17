@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Ninety percent of New York City cabbies are recently arrived immigrants.
+> There are a million ants for every person on Earth.
 
 <br>
 <br>
