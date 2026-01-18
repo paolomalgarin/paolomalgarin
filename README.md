@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> There are a million ants for every person on Earth.
+> Koalas never drink water. They get fluids from the eucalyptus leaves they eat.
 
 <br>
 <br>
