@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Koalas never drink water. They get fluids from the eucalyptus leaves they eat.
+> Eating the heart of a male Partridge was the cure for impotence in ancient Babylon.
 
 <br>
 <br>
