@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Eating the heart of a male Partridge was the cure for impotence in ancient Babylon.
+> The state of Maryland has no natural Lakes.
 
 <br>
 <br>
