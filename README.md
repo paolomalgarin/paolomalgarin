@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The state of Maryland has no natural Lakes.
+> A rhinoceros horn is made of compacted hair.
 
 <br>
 <br>
