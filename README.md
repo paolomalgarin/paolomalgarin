@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> A rhinoceros horn is made of compacted hair.
+> In space, astronauts cannot cry, because there is no gravity, so the tears can't flow.
 
 <br>
 <br>
