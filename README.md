@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> In space, astronauts cannot cry, because there is no gravity, so the tears can't flow.
+> Everyday, more money is printed for Monopoly sets than for the U.S. Treasury.
 
 <br>
 <br>
