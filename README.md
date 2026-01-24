@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Everyday, more money is printed for Monopoly sets than for the U.S. Treasury.
+> The 57 on the Heinz ketchup bottle represents the number of pickle types the company once had.
 
 <br>
 <br>
