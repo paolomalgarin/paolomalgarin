@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The 57 on the Heinz ketchup bottle represents the number of pickle types the company once had.
+> If done perfectly, a rubix cube combination can be solved in 17 turns.
 
 <br>
 <br>
