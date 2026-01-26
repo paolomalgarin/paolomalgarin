@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> If done perfectly, a rubix cube combination can be solved in 17 turns.
+> John Lennon`s first girlfriend was named Thelma Pickles.
 
 <br>
 <br>
