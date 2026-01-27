@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> John Lennon`s first girlfriend was named Thelma Pickles.
+> In the White House, there are 13,092 knives, forks and spoons!
 
 <br>
 <br>
