@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> In the White House, there are 13,092 knives, forks and spoons!
+> You can't kill yourself by holding your breath
 
 <br>
 <br>
