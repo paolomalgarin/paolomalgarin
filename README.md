@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> You can't kill yourself by holding your breath
+> Until 1997, there were more pigs than people in Denmark.
 
 <br>
 <br>
