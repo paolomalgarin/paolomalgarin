@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Non-dairy creamer is flammable.
+> The storage capacity of human brain exceeds 4 Terabytes.
 
 <br>
 <br>
