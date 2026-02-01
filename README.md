@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The storage capacity of human brain exceeds 4 Terabytes.
+> A pig`s orgasm lasts for 30 minutes.
 
 <br>
 <br>
