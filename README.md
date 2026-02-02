@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> A pig`s orgasm lasts for 30 minutes.
+> The longest word comprised of one row on the keyboard is: TYPEWRITER
 
 <br>
 <br>
