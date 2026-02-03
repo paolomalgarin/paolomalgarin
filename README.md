@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The longest word comprised of one row on the keyboard is: TYPEWRITER
+> While in Alcatraz, Al Capone was inmate #85.
 
 <br>
 <br>
