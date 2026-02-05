@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> While in Alcatraz, Al Capone was inmate #85.
+> Rhythm is the longest English word without a vowel.
 
 <br>
 <br>
