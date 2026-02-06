@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Rhythm is the longest English word without a vowel.
+> US Dollar bills are made out of cotton and linen.
 
 <br>
 <br>
