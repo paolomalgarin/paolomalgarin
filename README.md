@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> US Dollar bills are made out of cotton and linen.
+> Your stomach needs to produce a new layer of mucus every two weeks or it would digest itself.
 
 <br>
 <br>
