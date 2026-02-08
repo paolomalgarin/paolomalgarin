@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Your stomach needs to produce a new layer of mucus every two weeks or it would digest itself.
+> Ten percent of the Russian government`s income comes from the sale of vodka.
 
 <br>
 <br>
