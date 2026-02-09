@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Ten percent of the Russian government`s income comes from the sale of vodka.
+> An American urologist bought Napoleon’s penis for 0,000.
 
 <br>
 <br>
