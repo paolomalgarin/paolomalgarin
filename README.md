@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> An American urologist bought Napoleon’s penis for 0,000.
+> 11% of the world is left-handed.
 
 <br>
 <br>
