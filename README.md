@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> 11% of the world is left-handed.
+> The world's youngest parents were 8 and 9 and lived in China in 1910.
 
 <br>
 <br>
