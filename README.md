@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The world's youngest parents were 8 and 9 and lived in China in 1910.
+> 400-quarter pounders can be made from 1 cow.
 
 <br>
 <br>
