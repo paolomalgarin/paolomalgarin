@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> 400-quarter pounders can be made from 1 cow.
+> The pop you hear when you crack your knuckles is actually a bubble of gas burning.
 
 <br>
 <br>
