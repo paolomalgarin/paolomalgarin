@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The pop you hear when you crack your knuckles is actually a bubble of gas burning.
+> The toothbrush was invented in China in 1498.
 
 <br>
 <br>
