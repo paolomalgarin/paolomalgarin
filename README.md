@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The toothbrush was invented in China in 1498.
+> If you keep a goldfish in the dark room, it will eventually turn white.
 
 <br>
 <br>
