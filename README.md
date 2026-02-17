@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> If you keep a goldfish in the dark room, it will eventually turn white.
+> Annual growth of WWW traffic is 314,000%
 
 <br>
 <br>
