@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> 100% of lottery winners do gain weight
+> The human feet perspire half a pint of fluid a day
 
 <br>
 <br>
