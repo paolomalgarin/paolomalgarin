@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The human feet perspire half a pint of fluid a day
+> The sound of E.T. walking was made by someone squishing her hands in jelly.
 
 <br>
 <br>
