@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The sound of E.T. walking was made by someone squishing her hands in jelly.
+> The three most recognized Western names in China are Jesus Christ, Richard Nixon, & Elvis Presley.
 
 <br>
 <br>
