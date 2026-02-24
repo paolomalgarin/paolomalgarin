@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The three most recognized Western names in China are Jesus Christ, Richard Nixon, & Elvis Presley.
+> 38% of American men say they love their cars more than women
 
 <br>
 <br>
