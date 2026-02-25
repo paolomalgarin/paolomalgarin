@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> 38% of American men say they love their cars more than women
+> It's possible to lead a cow upstairs...but not downstairs.
 
 <br>
 <br>
