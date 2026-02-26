@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> It's possible to lead a cow upstairs...but not downstairs.
+> The human body is comprised of 80% water.
 
 <br>
 <br>
