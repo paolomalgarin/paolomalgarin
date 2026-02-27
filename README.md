@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The human body is comprised of 80% water.
+> Blondes have more hair than dark-haired people do.
 
 <br>
 <br>
