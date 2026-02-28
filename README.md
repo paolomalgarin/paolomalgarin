@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Blondes have more hair than dark-haired people do.
+> The name of the girl on the statue of liberty is Mother of Exiles.
 
 <br>
 <br>
