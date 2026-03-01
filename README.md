@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The name of the girl on the statue of liberty is Mother of Exiles.
+> The Great Wall of China is the only man-made structure visible from space.
 
 <br>
 <br>
