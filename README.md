@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The Great Wall of China is the only man-made structure visible from space.
+> 38% of American men say they love their cars more than women
 
 <br>
 <br>
