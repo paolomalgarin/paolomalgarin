@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> 38% of American men say they love their cars more than women
+> To escape the grip of a crocodile`s jaws, push your thumbs into its eyeballs - it will let you go instantly.
 
 <br>
 <br>
