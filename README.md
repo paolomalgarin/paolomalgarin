@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> To escape the grip of a crocodile`s jaws, push your thumbs into its eyeballs - it will let you go instantly.
+> Stephen Hawking was born exactly 300 years after Galileo died.
 
 <br>
 <br>
