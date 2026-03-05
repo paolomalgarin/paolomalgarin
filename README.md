@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Stephen Hawking was born exactly 300 years after Galileo died.
+> On average, Americans` favorite smell is banana.
 
 <br>
 <br>
