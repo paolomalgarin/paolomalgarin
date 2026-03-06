@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> On average, Americans` favorite smell is banana.
+> 40% of all people who come to a party in your home snoop in your medicine cabinet
 
 <br>
 <br>
