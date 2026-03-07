@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> 40% of all people who come to a party in your home snoop in your medicine cabinet
+> The verb cleave is the only English word with two synonyms which are antonyms of each other: adhere and separate.
 
 <br>
 <br>
