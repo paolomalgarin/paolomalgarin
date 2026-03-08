@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The verb cleave is the only English word with two synonyms which are antonyms of each other: adhere and separate.
+> Rape is reported every six minutes in the U.S.
 
 <br>
 <br>
