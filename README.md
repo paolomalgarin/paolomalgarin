@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Rape is reported every six minutes in the U.S.
+> Simplistic passwords contribute to over 80% of all computer password break-ins.
 
 <br>
 <br>
