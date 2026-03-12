@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> It is impossible to lick your elbow.
+> More people are afraid of open spaces (kenophobia) than of tight spaces (claustrophobia).
 
 <br>
 <br>
