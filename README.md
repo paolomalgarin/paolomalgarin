@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> More people are afraid of open spaces (kenophobia) than of tight spaces (claustrophobia).
+> The amount of computer Memory required to run WordPerfect for Win95 is 8 times the amount needed aboard the space shuttle.
 
 <br>
 <br>
