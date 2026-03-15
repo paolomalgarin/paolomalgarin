@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The state of Florida is bigger than England!
+> In every episode of Seinfeld there is a Superman somewhere.
 
 <br>
 <br>
