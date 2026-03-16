@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> In every episode of Seinfeld there is a Superman somewhere.
+> Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world.
 
 <br>
 <br>
