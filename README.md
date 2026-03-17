@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Seattle’s Fremont Bridge rises up and down more than any drawbridge in the world.
+> The average shelf-life of a latex condom is about two years.
 
 <br>
 <br>
