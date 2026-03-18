@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The average shelf-life of a latex condom is about two years.
+> Over 60% of all those who marry get divorced.
 
 <br>
 <br>
