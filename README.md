@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Over 60% of all those who marry get divorced.
+> Arizona was the last of the 48 adjoining continental states to enter the Union.
 
 <br>
 <br>
