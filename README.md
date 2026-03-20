@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Arizona was the last of the 48 adjoining continental states to enter the Union.
+> Some lions mate over 50 times a day.
 
 <br>
 <br>
