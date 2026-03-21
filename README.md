@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Some lions mate over 50 times a day.
+> If we had the same mortality rate now as in 1900, more than half the people in the world today would not be alive.
 
 <br>
 <br>
