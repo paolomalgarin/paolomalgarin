@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> If we had the same mortality rate now as in 1900, more than half the people in the world today would not be alive.
+> You can't kill yourself by holding your breath
 
 <br>
 <br>
