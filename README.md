@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> You can't kill yourself by holding your breath
+> The average lifespan of an eyelash is five months.
 
 <br>
 <br>
