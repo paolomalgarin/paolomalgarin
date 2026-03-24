@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The average lifespan of an eyelash is five months.
+> The state of Florida is bigger than England!
 
 <br>
 <br>
