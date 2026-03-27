@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The longest recorded flight of a chicken is thirteen seconds.
+> Daylight Saving Time is not observed in most of the state of Arizona and parts of Indiana.
 
 <br>
 <br>
