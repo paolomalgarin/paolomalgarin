@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Daylight Saving Time is not observed in most of the state of Arizona and parts of Indiana.
+> In “Silence of the Lambs”, Hannibal Lector (Anthony Hopkins) never blinks.
 
 <br>
 <br>
