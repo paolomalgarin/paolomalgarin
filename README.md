@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> In “Silence of the Lambs”, Hannibal Lector (Anthony Hopkins) never blinks.
+> John Adams, Thomas Jefferson, and James Monroe died on July 4th.
 
 <br>
 <br>
