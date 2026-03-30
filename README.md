@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> John Adams, Thomas Jefferson, and James Monroe died on July 4th.
+> You can't kill yourself by holding your breath
 
 <br>
 <br>
