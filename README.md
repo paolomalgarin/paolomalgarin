@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> You can't kill yourself by holding your breath
+> In 10 minutes, a hurricane releases more energy than all the world’s nuclear weapons combined.
 
 <br>
 <br>
