@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> In 10 minutes, a hurricane releases more energy than all the world’s nuclear weapons combined.
+> The toothbrush was invented in China in 1498.
 
 <br>
 <br>
