@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The toothbrush was invented in China in 1498.
+> Approximately every seven minutes of every day, someone in an aerobics class pulls their hamstring.
 
 <br>
 <br>
