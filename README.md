@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Approximately every seven minutes of every day, someone in an aerobics class pulls their hamstring.
+> It takes more calories to eat a piece of celery than the celery has in it to begin with.
 
 <br>
 <br>
