@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> It takes more calories to eat a piece of celery than the celery has in it to begin with.
+> The only nation whose name begins with an A, but doesn`t end in an A is Afghanistan.
 
 <br>
 <br>
