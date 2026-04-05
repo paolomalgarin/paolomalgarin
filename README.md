@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The only nation whose name begins with an A, but doesn`t end in an A is Afghanistan.
+> The human body is comprised of 80% water.
 
 <br>
 <br>
