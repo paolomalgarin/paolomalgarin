@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The human body is comprised of 80% water.
+> Coca-Cola would be green if coloring weren’t added to it.
 
 <br>
 <br>
