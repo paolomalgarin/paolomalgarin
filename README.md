@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Coca-Cola would be green if coloring weren’t added to it.
+> More than 90% of the Nicaraguan people are Roman Catholic.
 
 <br>
 <br>
