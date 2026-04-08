@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> More than 90% of the Nicaraguan people are Roman Catholic.
+> No word in the English language rhymes with month, orange, silver, or purple.
 
 <br>
 <br>
