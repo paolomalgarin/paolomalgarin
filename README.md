@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> No word in the English language rhymes with month, orange, silver, or purple.
+> You can`t kill yourself by holding your breath.  
 
 <br>
 <br>
