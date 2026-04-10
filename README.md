@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> You can`t kill yourself by holding your breath.  
+> Prince Charles and Prince William never travel on the same airplane in case there is a crash.
 
 <br>
 <br>
