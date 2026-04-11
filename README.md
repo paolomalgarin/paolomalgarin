@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Prince Charles and Prince William never travel on the same airplane in case there is a crash.
+> The world’s oldest piece of chewing gum is 9000 years old!
 
 <br>
 <br>
