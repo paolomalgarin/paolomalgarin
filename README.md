@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The world’s oldest piece of chewing gum is 9000 years old!
+> The U.S. city with the highest rate of lightning strikes per capita is Clearwater, Florida.
 
 <br>
 <br>
