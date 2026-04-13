@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The U.S. city with the highest rate of lightning strikes per capita is Clearwater, Florida.
+> The average North American will eat 35,000 cookies during their life span.
 
 <br>
 <br>
