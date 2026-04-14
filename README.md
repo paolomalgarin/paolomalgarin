@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The average North American will eat 35,000 cookies during their life span.
+> Johnny Appleseed planted apples so that people could use apple cider to make alcohol.
 
 <br>
 <br>
