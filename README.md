@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Johnny Appleseed planted apples so that people could use apple cider to make alcohol.
+> Right handed people live, on average, nine years longer than left-handed people
 
 <br>
 <br>
