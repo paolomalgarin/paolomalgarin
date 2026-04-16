@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Right handed people live, on average, nine years longer than left-handed people
+> 14% of all facts and statistics are made up and 27% of people know that fact.
 
 <br>
 <br>
