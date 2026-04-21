@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Owls are one of the only birds who can see the color blue!
+> On an American one-dollar bill, there is an owl in the upper left-hand corner of the 1encased in the shield and a spider hidden in the front upper right-hand corner.
 
 <br>
 <br>
