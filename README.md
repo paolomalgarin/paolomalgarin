@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> On an American one-dollar bill, there is an owl in the upper left-hand corner of the 1encased in the shield and a spider hidden in the front upper right-hand corner.
+> A horse can look forward with one eye and back with the other.
 
 <br>
 <br>
