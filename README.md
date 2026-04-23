@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> A horse can look forward with one eye and back with the other.
+> A chameleon's tongue is twice the length of its body.
 
 <br>
 <br>
