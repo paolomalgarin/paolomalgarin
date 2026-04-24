@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> A chameleon's tongue is twice the length of its body.
+> You share your birthday with at least 9 million other people in the world.
 
 <br>
 <br>
