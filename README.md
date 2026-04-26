@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Napoleon`s penis was sold to an American Urologist for 0,000.
+> About 500 movies are made in the US and 800 in India annually.
 
 <br>
 <br>
