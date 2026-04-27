@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> About 500 movies are made in the US and 800 in India annually.
+> One in every 9000 people is an albino.
 
 <br>
 <br>
