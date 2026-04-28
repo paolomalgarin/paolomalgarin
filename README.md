@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> One in every 9000 people is an albino.
+> Conception occurs most in the month of December.
 
 <br>
 <br>
