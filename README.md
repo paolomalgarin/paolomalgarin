@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Conception occurs most in the month of December.
+> Coconuts kill about 150 people each year. That’s more than sharks.
 
 <br>
 <br>
