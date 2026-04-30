@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Coconuts kill about 150 people each year. That’s more than sharks.
+> Your stomach produces a new layer of mucus every two weeks so that it doesn’t digest itself.
 
 <br>
 <br>
