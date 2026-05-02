@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> If you plant an apple seed, it is almost guaranteed to grow a tree of a different type of apple.
+> Your stomach has to produce a new layer of mucus every 2 weeks otherwise it will digest itself.
 
 <br>
 <br>
