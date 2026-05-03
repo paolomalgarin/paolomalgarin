@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Your stomach has to produce a new layer of mucus every 2 weeks otherwise it will digest itself.
+> More people are allergic to cow's milk than any other food.
 
 <br>
 <br>
