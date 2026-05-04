@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> More people are allergic to cow's milk than any other food.
+> The common idea that only 10% of the brain is used it not true as it is impossible to determine the actual percentage because of the complexity of the brain.
 
 <br>
 <br>
