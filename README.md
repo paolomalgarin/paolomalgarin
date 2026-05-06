@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Shakespeare invented the words “assassination” and “bump.”
+> Jim Morrison, of the 60's rock group The Doors, was the first rock star to be arrested on stage.
 
 <br>
 <br>
