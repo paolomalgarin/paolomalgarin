@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Jim Morrison, of the 60's rock group The Doors, was the first rock star to be arrested on stage.
+> Arnold Schonberg suffered from triskaidecaphobia, the fear of the number 13.  He died at 13 minutes from midnight on Friday the 13th.
 
 <br>
 <br>
