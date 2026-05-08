@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Arnold Schonberg suffered from triskaidecaphobia, the fear of the number 13.  He died at 13 minutes from midnight on Friday the 13th.
+> Recycling one glass jar, saves enough energy to watch T.V for 3 hours!
 
 <br>
 <br>
