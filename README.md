@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Recycling one glass jar, saves enough energy to watch T.V for 3 hours!
+> Jim Morrison, of the 60's rock group The Doors, was the first rock star to be arrested on stage.
 
 <br>
 <br>
