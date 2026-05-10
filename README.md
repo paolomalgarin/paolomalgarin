@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Jim Morrison, of the 60's rock group The Doors, was the first rock star to be arrested on stage.
+> There are over 58 million dogs in the US
 
 <br>
 <br>
