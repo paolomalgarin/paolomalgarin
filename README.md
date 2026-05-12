@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> There are over 58 million dogs in the US
+>  was Harrison Ford`s idea so that he could take a bathroom break.
 
 <br>
 <br>
