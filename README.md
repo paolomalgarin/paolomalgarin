@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
->  was Harrison Ford`s idea so that he could take a bathroom break.
+> The San Francisco Cable cars are the only mobile National Monuments.
 
 <br>
 <br>
