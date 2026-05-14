@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The San Francisco Cable cars are the only mobile National Monuments.
+> Between 2 and 3 jockeys are killed each year in horse racing.
 
 <br>
 <br>
