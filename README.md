@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Between 2 and 3 jockeys are killed each year in horse racing.
+> Sex is biochemically no different from eating large quantities of chocolate.
 
 <br>
 <br>
