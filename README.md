@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Sex is biochemically no different from eating large quantities of chocolate.
+> In Aspen Colorado, you can have a maximum income of 04,000 and still receive government subsidized housing.
 
 <br>
 <br>
