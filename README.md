@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> In Aspen Colorado, you can have a maximum income of 04,000 and still receive government subsidized housing.
+> The youngest pope ever was 11 years old.
 
 <br>
 <br>
