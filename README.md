@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The youngest pope ever was 11 years old.
+> Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag.
 
 <br>
 <br>
