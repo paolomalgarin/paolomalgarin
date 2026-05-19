@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Texas is also the only state that is allowed to fly its state flag at the same height as the U.S. flag.
+> God is not mentioned once in the book of Esther.
 
 <br>
 <br>
