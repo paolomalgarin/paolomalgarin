@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> One in fourteen women in America is a natural blonde. Only one in sixteen men is.
+> On an American one-dollar bill, there is an owl in the upper left-hand corner of the 1encased in the shield and a spider hidden in the front upper right-hand corner.
 
 <br>
 <br>
