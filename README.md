@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> On an American one-dollar bill, there is an owl in the upper left-hand corner of the 1encased in the shield and a spider hidden in the front upper right-hand corner.
+> Benjamin Franklin was the fifth in a series of the youngest son of the youngest son.
 
 <br>
 <br>
