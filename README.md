@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Benjamin Franklin was the fifth in a series of the youngest son of the youngest son.
+> 25% of a human’s bones are in its feet.
 
 <br>
 <br>
