@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> 25% of a human’s bones are in its feet.
+> Meteorologists claim they`re right 85% of the time (think about that one!)
 
 <br>
 <br>
