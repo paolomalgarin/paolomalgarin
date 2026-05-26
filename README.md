@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Meteorologists claim they`re right 85% of the time (think about that one!)
+> The average American butt is 14.9 inches long.
 
 <br>
 <br>
