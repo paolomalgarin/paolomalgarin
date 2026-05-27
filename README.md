@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The average American butt is 14.9 inches long.
+> In 10 minutes, a hurricane releases more energy than all of the world's nuclear weapons combined.
 
 <br>
 <br>
