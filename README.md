@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> In 10 minutes, a hurricane releases more energy than all of the world's nuclear weapons combined.
+> An average human loses about 200 head hairs per day.
 
 <br>
 <br>
