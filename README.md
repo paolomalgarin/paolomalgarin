@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> An average human loses about 200 head hairs per day.
+> Worcestershire sauce in essentially an Anchovy Ketchup.
 
 <br>
 <br>
