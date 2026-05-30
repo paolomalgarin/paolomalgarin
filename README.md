@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Worcestershire sauce in essentially an Anchovy Ketchup.
+> The highest per capita Jell-O comsumption in the US is Des Moines.
 
 <br>
 <br>
