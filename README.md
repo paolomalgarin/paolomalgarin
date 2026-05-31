@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The highest per capita Jell-O comsumption in the US is Des Moines.
+> Kuwait is about 60% male (highest in the world). Latvia is about 54% female (highest in the world).
 
 <br>
 <br>
