@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Kuwait is about 60% male (highest in the world). Latvia is about 54% female (highest in the world).
+> In the Philippine jungle, the yo-yo was first used as a weapon.
 
 <br>
 <br>
