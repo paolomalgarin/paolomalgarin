@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> In the Philippine jungle, the yo-yo was first used as a weapon.
+> Most lipstick contains fish scales.
 
 <br>
 <br>
