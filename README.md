@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> China has more English speakers than the United States.
+> Someone paid 4,000 for the bra worn by Marilyn Monroe in the film 'Some Like It Hot'.
 
 <br>
 <br>
