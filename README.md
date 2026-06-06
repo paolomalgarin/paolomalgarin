@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Someone paid 4,000 for the bra worn by Marilyn Monroe in the film 'Some Like It Hot'.
+> A Boeing 747s wingspan is longer than the Wright brother's first flight.
 
 <br>
 <br>
