@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> A Boeing 747s wingspan is longer than the Wright brother's first flight.
+> There are more plastic flamingos in the U.S that there are real ones.
 
 <br>
 <br>
