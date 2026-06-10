@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Sex is the safest tranquilizer in the world. IT IS 10 TIMES MORE EFFECTIVE THAN VALIUM.
+> Astronaut Neil Armstrong first stepped on the moon with his left foot.
 
 <br>
 <br>
