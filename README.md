@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Astronaut Neil Armstrong first stepped on the moon with his left foot.
+> Mr. Rogers was an ordained minister. 
 
 <br>
 <br>
