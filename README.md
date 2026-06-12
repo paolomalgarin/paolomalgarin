@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Mr. Rogers was an ordained minister. 
+> The “save” icon in Microsoft Office programs shows a floppy disk with the shutter on backwards.
 
 <br>
 <br>
