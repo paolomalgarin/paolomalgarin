@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The “save” icon in Microsoft Office programs shows a floppy disk with the shutter on backwards.
+> The US has more personal computers than the next 7 countries combined.
 
 <br>
 <br>
