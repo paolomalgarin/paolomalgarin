@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The US has more personal computers than the next 7 countries combined.
+> You can be fined up to ,000 for whistling on Sunday in Salt Lake City, Utah.
 
 <br>
 <br>
