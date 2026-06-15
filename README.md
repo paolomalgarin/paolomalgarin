@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> You can be fined up to ,000 for whistling on Sunday in Salt Lake City, Utah.
+> Dolphins can look in different directions with each eye. They can sleep with one eye open.
 
 <br>
 <br>
