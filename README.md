@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Dolphins can look in different directions with each eye. They can sleep with one eye open.
+> In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes.
 
 <br>
 <br>
