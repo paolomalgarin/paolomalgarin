@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> In the United States, a pound of potato chips costs two hundred times more than a pound of potatoes.
+> The past-tense of the English word “dare” is “durst”
 
 <br>
 <br>
