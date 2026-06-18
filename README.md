@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The past-tense of the English word “dare” is “durst”
+> null
 
 <br>
 <br>
