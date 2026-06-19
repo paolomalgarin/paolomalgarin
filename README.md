@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> null
+> The plastic things on the end of shoelaces are called aglets.
 
 <br>
 <br>
