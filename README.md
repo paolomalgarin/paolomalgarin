@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> null
+> 315 entries in Webster’s 1996 dictionary were misspelled.
 
 <br>
 <br>
