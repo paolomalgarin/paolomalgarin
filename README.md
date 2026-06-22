@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> 315 entries in Webster’s 1996 dictionary were misspelled.
+> One out of every 43 prisoners escapes from jail. 94% are recaptured.
 
 <br>
 <br>
