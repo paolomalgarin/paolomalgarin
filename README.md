@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The original name for butterfly was flutterby.
+> The Human eyes never grow, but nose and ears never stop growing.
 
 <br>
 <br>
