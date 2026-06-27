@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The first novel ever written on a typewriter is Tom Sawyer.
+> Rodent's teeth never stop growing.
 
 <br>
 <br>
