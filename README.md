@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Rodent's teeth never stop growing.
+> “Lassie” was played by a group of male dogs; the main one was named Pal.
 
 <br>
 <br>
