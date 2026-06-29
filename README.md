@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> “Lassie” was played by a group of male dogs; the main one was named Pal.
+> Almonds are members of the peach family.
 
 <br>
 <br>
