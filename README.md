@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Almonds are members of the peach family.
+> Every acre of American crops harvested contains 100 pounds of insects.
 
 <br>
 <br>
