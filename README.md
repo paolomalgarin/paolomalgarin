@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The cruise liner, Queen Elizabeth II, moves only six inches for each gallon of diesel that it burns.
+> Fish that live more than 800 meters below the ocean surface don't have eyes.
 
 <br>
 <br>
