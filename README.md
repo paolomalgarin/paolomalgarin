@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The Declaration of Independence was written on hemp (marijuana) paper.
+> The original name for butterfly was flutterby.
 
 <br>
 <br>
