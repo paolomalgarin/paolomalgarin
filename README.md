@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The original name for butterfly was flutterby.
+> 83,200 is the absolute highest amount of money you can win on Jeopardy.
 
 <br>
 <br>
