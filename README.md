@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> 83,200 is the absolute highest amount of money you can win on Jeopardy.
+> The Philippines has about 7,100 islands, of which only about 460 are more than 1 square mile in area.
 
 <br>
 <br>
