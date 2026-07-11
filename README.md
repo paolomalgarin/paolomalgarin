@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The Philippines has about 7,100 islands, of which only about 460 are more than 1 square mile in area.
+> A lion's roar can be heard from five miles away.
 
 <br>
 <br>
