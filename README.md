@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> A lion's roar can be heard from five miles away.
+> Porcupines can float in water.
 
 <br>
 <br>
