@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Dreamt is the only English word that ends in the letters mt.
+> All polar bears are left-handed.
 
 <br>
 <br>
