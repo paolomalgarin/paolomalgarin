@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> All polar bears are left-handed.
+> When possums are playing `possum`, they are not playing. They actually pass out from sheer terror.
 
 <br>
 <br>
