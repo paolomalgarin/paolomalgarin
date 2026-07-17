@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> When possums are playing `possum`, they are not playing. They actually pass out from sheer terror.
+> In eighteenth-century English gambling dens, there was an employee whose only job was to swallow the dice if there was a police raid.
 
 <br>
 <br>
