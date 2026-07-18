@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> In eighteenth-century English gambling dens, there was an employee whose only job was to swallow the dice if there was a police raid.
+> There are a million ants for every person on Earth.
 
 <br>
 <br>
