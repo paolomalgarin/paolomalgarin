@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Orville Wright was involved in the first aircraft accident. His passenger, a Frenchman, was killed.
+> If one spells out numbers, they would have to count to One Thousand before coming across the letter A.
 
 <br>
 <br>
