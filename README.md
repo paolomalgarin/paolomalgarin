@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> If one spells out numbers, they would have to count to One Thousand before coming across the letter A.
+> Golf courses cover 4% of North America.
 
 <br>
 <br>
