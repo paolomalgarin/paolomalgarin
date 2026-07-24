@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Golf courses cover 4% of North America.
+> In America you will see an average of 500 advertisements a day.
 
 <br>
 <br>
