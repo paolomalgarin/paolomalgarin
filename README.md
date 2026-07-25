@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> In America you will see an average of 500 advertisements a day.
+> On average, people fear spiders more than they do death.
 
 <br>
 <br>
