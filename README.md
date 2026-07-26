@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> On average, people fear spiders more than they do death.
+> Donald Duck`s middle name is Fauntleroy.  
 
 <br>
 <br>
