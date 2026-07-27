@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Donald Duck`s middle name is Fauntleroy.  
+> On the ground, a group of geese is a gaggle, in the sky it is a skein.
 
 <br>
 <br>
