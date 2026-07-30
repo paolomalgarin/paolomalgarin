@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The human brain uses the same amount of energy as a 10-watt light bulb
+> The buzz from an electric razor in America plays in the key of B flat; Key of G in England.
 
 <br>
 <br>
