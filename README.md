@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The buzz from an electric razor in America plays in the key of B flat; Key of G in England.
+> The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier.
 
 <br>
 <br>
