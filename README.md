@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier.
+> Maine is the only state whose name is just one syllable.
 
 <br>
 <br>
