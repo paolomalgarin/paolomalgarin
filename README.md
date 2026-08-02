@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Maine is the only state whose name is just one syllable.
+> Samuel Clemens (Mark Twain) was born on and died on days when Halley’s Comet can be seen.
 
 <br>
 <br>
