@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Samuel Clemens (Mark Twain) was born on and died on days when Halley’s Comet can be seen.
+> In America you will see an average of 500 advertisements a day.
 
 <br>
 <br>
