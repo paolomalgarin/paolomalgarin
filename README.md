@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> In America you will see an average of 500 advertisements a day.
+> Coca-Cola was originally green.
 
 <br>
 <br>
