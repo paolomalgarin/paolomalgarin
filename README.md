@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Coca-Cola was originally green.
+> A standard slinky measures 87 feet when stretched out.
 
 <br>
 <br>
