@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> A standard slinky measures 87 feet when stretched out.
+> Columbia University is the second largest landowner in New York City, after the Catholic Church.
 
 <br>
 <br>
