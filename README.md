@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Columbia University is the second largest landowner in New York City, after the Catholic Church.
+> More than 50% of the people in the world have never made or received a telephone call.
 
 <br>
 <br>
