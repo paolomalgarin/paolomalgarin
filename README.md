@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> More than 50% of the people in the world have never made or received a telephone call.
+> Napoleon`s penis was sold to an American Urologist for 0,000.
 
 <br>
 <br>
