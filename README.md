@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Napoleon`s penis was sold to an American Urologist for 0,000.
+> It's against the law to burp, or sneeze in a church in Nebraska, USA.
 
 <br>
 <br>
