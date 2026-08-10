@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> It's against the law to burp, or sneeze in a church in Nebraska, USA.
+> Dueling is legal in Paraguay as long as both parties are registered blood donors.
 
 <br>
 <br>
