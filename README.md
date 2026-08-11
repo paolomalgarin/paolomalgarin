@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Dueling is legal in Paraguay as long as both parties are registered blood donors.
+> The word “lethologica” describes the state of not being able to remember the word you want.
 
 <br>
 <br>
