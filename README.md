@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The word “lethologica” describes the state of not being able to remember the word you want.
+> The giant red star Betelgeuse has a diameter larger than that of the Earth's orbit around the sun. 
 
 <br>
 <br>
