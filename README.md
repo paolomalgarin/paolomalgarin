@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The giant red star Betelgeuse has a diameter larger than that of the Earth's orbit around the sun. 
+> On average, 100 people choke to death on ball-point pens every year.
 
 <br>
 <br>
