@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> On average, 100 people choke to death on ball-point pens every year.
+> A giraffe can clean its ears with its 21-inch tongue!
 
 <br>
 <br>
