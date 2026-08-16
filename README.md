@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> A giraffe can clean its ears with its 21-inch tongue!
+> The first owner of the Marlboro company died of lung cancer.
 
 <br>
 <br>
