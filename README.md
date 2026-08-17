@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The first owner of the Marlboro company died of lung cancer.
+> The Declaration of Independence was written on hemp (marijuana) paper.
 
 <br>
 <br>
