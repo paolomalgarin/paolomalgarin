@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The most common name in world is Mohammed.
+> Male bats have the highest rate of homosexuality of any mammal.
 
 <br>
 <br>
