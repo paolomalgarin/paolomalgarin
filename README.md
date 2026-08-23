@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> In the Philippine jungle, the yo-yo was first used as a weapon.
+> There is no solid proof of who built the Taj Mahal.
 
 <br>
 <br>
