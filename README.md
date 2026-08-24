@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> There is no solid proof of who built the Taj Mahal.
+> No piece of square dry paper can be folded in half more than 7 times
 
 <br>
 <br>
