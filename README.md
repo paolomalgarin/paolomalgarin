@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Sex burns 360 calories per hour.
+> Americans travel 1,144,721,000 miles by air every day
 
 <br>
 <br>
