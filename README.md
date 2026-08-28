@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Americans travel 1,144,721,000 miles by air every day
+> The Australian  to 00 notes are made of plastic.
 
 <br>
 <br>
