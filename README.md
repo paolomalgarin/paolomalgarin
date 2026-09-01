@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Americans on average eat 18 acres of pizza every day.
+> Nerve impulses to and from the brain travel as fast as 170 miles (274 km) per hour.
 
 <br>
 <br>
