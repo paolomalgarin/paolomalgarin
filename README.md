@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Nerve impulses to and from the brain travel as fast as 170 miles (274 km) per hour.
+> Al Capone`s business card said he was a used furniture dealer.
 
 <br>
 <br>
