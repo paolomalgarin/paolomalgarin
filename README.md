@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Al Capone`s business card said he was a used furniture dealer.
+> null
 
 <br>
 <br>
