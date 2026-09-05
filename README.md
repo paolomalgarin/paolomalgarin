@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> null
+> Antarctica is the only continent that does not have land areas below sea level.
 
 <br>
 <br>
