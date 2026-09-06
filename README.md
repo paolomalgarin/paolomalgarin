@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Antarctica is the only continent that does not have land areas below sea level.
+> A “jiffy” is the scientific name for 1/100th of a second.
 
 <br>
 <br>
