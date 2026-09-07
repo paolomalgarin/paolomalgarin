@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> A “jiffy” is the scientific name for 1/100th of a second.
+> Every year 4 people in the UK die putting their trousers on.
 
 <br>
 <br>
