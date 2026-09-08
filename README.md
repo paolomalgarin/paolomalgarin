@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Every year 4 people in the UK die putting their trousers on.
+> Tom Sawyer was the first novel written on a typewriter.
 
 <br>
 <br>
