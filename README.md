@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Tom Sawyer was the first novel written on a typewriter.
+> Sigmund Freud had a morbid fear of ferns.
 
 <br>
 <br>
