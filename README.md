@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Sigmund Freud had a morbid fear of ferns.
+> Grapes explode when you put them in the microwave. Go on, try it then
 
 <br>
 <br>
