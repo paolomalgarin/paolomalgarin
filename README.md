@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Grapes explode when you put them in the microwave. Go on, try it then
+> Sharkskin has tiny tooth-like scales all over.
 
 <br>
 <br>
