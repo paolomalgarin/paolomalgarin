@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Sharkskin has tiny tooth-like scales all over.
+> The town of Calma, Chile in the Atacama Desert has never had rain.
 
 <br>
 <br>
