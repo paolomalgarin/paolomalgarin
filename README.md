@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> null
+> Reindeer like to eat bananas.
 
 <br>
 <br>
