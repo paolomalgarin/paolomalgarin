@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Reindeer like to eat bananas.
+> You is the second most spoken English word
 
 <br>
 <br>
