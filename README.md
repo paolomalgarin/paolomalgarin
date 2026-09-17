@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> You is the second most spoken English word
+> Honey is the only natural food that is made without destroying any kind of life.
 
 <br>
 <br>
