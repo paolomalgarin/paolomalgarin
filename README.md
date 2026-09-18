@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Honey is the only natural food that is made without destroying any kind of life.
+> An ostrich’s eye is bigger than its brain.
 
 <br>
 <br>
