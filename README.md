@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> An ostrich’s eye is bigger than its brain.
+> Bruce Lee was so fast that they actually had to s-l-o-w film down so you could see his moves.
 
 <br>
 <br>
