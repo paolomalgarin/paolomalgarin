@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Bruce Lee was so fast that they actually had to s-l-o-w film down so you could see his moves.
+> Babies are born without kneecaps. They don`t appear until the child reaches 2-6 years of age.
 
 <br>
 <br>
