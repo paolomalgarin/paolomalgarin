@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Babies are born without kneecaps. They don`t appear until the child reaches 2-6 years of age.
+> Babies are most likely to be born on Tuesdays.
 
 <br>
 <br>
