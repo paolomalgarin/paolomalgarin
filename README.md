@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Babies are most likely to be born on Tuesdays.
+> If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.
 
 <br>
 <br>
