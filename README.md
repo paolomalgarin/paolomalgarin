@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> If one places a tiny amount of liquor on a scorpion, it will instantly go mad and sting itself to death.
+> Sherlock Holmes NEVER said “Elementary, my dear Watson”
 
 <br>
 <br>
