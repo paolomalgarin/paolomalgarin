@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Sherlock Holmes NEVER said “Elementary, my dear Watson”
+> Triskaidekaphobia means fear of the number 13.
 
 <br>
 <br>
