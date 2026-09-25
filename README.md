@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Triskaidekaphobia means fear of the number 13.
+> There are 1 million ants for every human in the world.
 
 <br>
 <br>
