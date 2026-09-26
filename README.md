@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> There are 1 million ants for every human in the world.
+> The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons.
 
 <br>
 <br>
