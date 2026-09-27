@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The earth weighs around 6,588,000,000,000,000,000,000,000,000 tons.
+> The US has more personal computers than the next 7 countries combined.
 
 <br>
 <br>
