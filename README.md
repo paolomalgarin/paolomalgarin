@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The US has more personal computers than the next 7 countries combined.
+> Rodent's teeth never stop growing.
 
 <br>
 <br>
