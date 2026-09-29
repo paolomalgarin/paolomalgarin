@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Rodent's teeth never stop growing.
+> Hummingbirds are the only animals that can fly backwards. 
 
 <br>
 <br>
