@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Hummingbirds are the only animals that can fly backwards. 
+> There are only four words in the English language which end in dous: tremendous, horrendous, stupendous, and  hazardous.
 
 <br>
 <br>
