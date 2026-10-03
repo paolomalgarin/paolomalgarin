@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> There are only four words in the English language which end in dous: tremendous, horrendous, stupendous, and  hazardous.
+> An ostrich`s eye is bigger than its brain.  
 
 <br>
 <br>
