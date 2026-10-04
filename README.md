@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> An ostrich`s eye is bigger than its brain.  
+> Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`.  
 
 <br>
 <br>
