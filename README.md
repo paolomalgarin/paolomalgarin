@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Steely Dan got their name from a sexual device depicted in the book `The Naked Lunch`.  
+> The average child recognizes over 200 company logos by the time he enters first grade.
 
 <br>
 <br>
