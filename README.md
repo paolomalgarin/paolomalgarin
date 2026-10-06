@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The average child recognizes over 200 company logos by the time he enters first grade.
+> The only 15-letter word that can be spelled without repeating a letter is uncopyrightable.
 
 <br>
 <br>
