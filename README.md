@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The only 15-letter word that can be spelled without repeating a letter is uncopyrightable.
+> Respiratory Disease is China's leading cause of death.
 
 <br>
 <br>
