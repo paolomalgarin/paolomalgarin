@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Respiratory Disease is China's leading cause of death.
+> California consumes more bottled water than any other product.
 
 <br>
 <br>
