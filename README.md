@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> California consumes more bottled water than any other product.
+> The male seahorse carries the eggs until they hatch instead of the female.
 
 <br>
 <br>
