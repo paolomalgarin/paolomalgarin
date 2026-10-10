@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The male seahorse carries the eggs until they hatch instead of the female.
+> Rats multiply so quickly that in 18 months, two rats could have over million descendants.
 
 <br>
 <br>
