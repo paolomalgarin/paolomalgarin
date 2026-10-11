@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Rats multiply so quickly that in 18 months, two rats could have over million descendants.
+> The storage capacity of human brain exceeds 4 Terabytes.
 
 <br>
 <br>
