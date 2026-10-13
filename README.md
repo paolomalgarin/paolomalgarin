@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> There are more donut shops in Canada per capita than any other country.
+> Right-handed people live, on average; nine years longer than left handed people.
 
 <br>
 <br>
