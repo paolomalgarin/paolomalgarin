@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Right-handed people live, on average; nine years longer than left handed people.
+> There are 240 dots on an arcade Pac-Man game
 
 <br>
 <br>
