@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> There are 240 dots on an arcade Pac-Man game
+> Eating the heart of a male Partridge was the cure for impotence in ancient Babylon.
 
 <br>
 <br>
