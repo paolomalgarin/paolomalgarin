@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The state of Maryland has no natural Lakes.
+> Leonardo da Vinci could write with one hand while drawing with the other
 
 <br>
 <br>
