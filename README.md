@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Leonardo da Vinci could write with one hand while drawing with the other
+> The Hawaiian alphabet has only 12 letters.
 
 <br>
 <br>
