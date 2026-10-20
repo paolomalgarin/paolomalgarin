@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The Hawaiian alphabet has only 12 letters.
+> Kelsey Grammar sings and plays the piano for the theme song of Fraiser.
 
 <br>
 <br>
