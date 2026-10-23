@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Coconuts kill about 150 people each year. That’s more than sharks.
+> Daylight Saving Time is not observed in most of the state of Arizona and parts of Indiana.
 
 <br>
 <br>
