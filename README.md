@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> An American urologist bought Napoleon’s penis for 0,000.
+> Our eyes are always the same size from birth but our nose and ears never stop growing.
 
 <br>
 <br>
