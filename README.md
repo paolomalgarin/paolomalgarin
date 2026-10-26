@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Our eyes are always the same size from birth but our nose and ears never stop growing.
+> The world record for spitting a watermelon seed is 65 feet 4 inches.
 
 <br>
 <br>
