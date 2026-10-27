@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The world record for spitting a watermelon seed is 65 feet 4 inches.
+> The fingerprints of koala bears are virtually indistinguishable from those of humans, so much so that they can be easily confused at a crime scene.
 
 <br>
 <br>
