@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The fingerprints of koala bears are virtually indistinguishable from those of humans, so much so that they can be easily confused at a crime scene.
+> Every time you lick a stamp you consume 1/10 of a calorie.
 
 <br>
 <br>
