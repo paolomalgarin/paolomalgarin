@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Every time you lick a stamp you consume 1/10 of a calorie.
+> If a rooster can`t fully extend its neck, it can`t crow.
 
 <br>
 <br>
