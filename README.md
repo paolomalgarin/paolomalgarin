@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> If a rooster can`t fully extend its neck, it can`t crow.
+> Americans travel 1,144,721,000 miles by air every day
 
 <br>
 <br>
