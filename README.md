@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Americans travel 1,144,721,000 miles by air every day
+> Stewardesses is the longest word typed with only the left hand.
 
 <br>
 <br>
