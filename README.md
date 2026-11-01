@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Stewardesses is the longest word typed with only the left hand.
+> In Bangladesh, kids as young as 15 can be jailed for cheating on their finals!
 
 <br>
 <br>
