@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> In Bangladesh, kids as young as 15 can be jailed for cheating on their finals!
+> The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier.
 
 <br>
 <br>
