@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The crack of a whip is actually a tiny sonic boom, since the tip breaks the sound barrier.
+> Hershey`s Kisses are called that because the machine that makes them looks like it`s kissing the conveyor belt.
 
 <br>
 <br>
