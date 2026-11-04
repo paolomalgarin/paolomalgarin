@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Hershey`s Kisses are called that because the machine that makes them looks like it`s kissing the conveyor belt.
+> When a Hawaiian woman wears a flower over her left ear, it means that she is not available.
 
 <br>
 <br>
