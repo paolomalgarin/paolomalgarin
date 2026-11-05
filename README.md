@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> When a Hawaiian woman wears a flower over her left ear, it means that she is not available.
+> Ten percent of the Russian government`s income comes from the sale of vodka.
 
 <br>
 <br>
