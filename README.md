@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> A jellyfish is 95% water.
+> Sugar was first added to chewing gum in 1869 by a dentist, William Semple.
 
 <br>
 <br>
