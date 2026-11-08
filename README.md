@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Sugar was first added to chewing gum in 1869 by a dentist, William Semple.
+> More than 50% of the people in the world have never made or received a telephone call.
 
 <br>
 <br>
