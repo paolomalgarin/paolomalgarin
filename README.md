@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> More than 50% of the people in the world have never made or received a telephone call.
+> Adolf Hitler's mother seriously considered having an abortion but was talked out of it by her doctor.
 
 <br>
 <br>
