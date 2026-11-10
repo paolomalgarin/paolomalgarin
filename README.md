@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Adolf Hitler's mother seriously considered having an abortion but was talked out of it by her doctor.
+> The town of Calma, Chile in the Atacama Desert has never had rain.
 
 <br>
 <br>
