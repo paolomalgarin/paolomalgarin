@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The town of Calma, Chile in the Atacama Desert has never had rain.
+> 38% of American men say they love their cars more than women
 
 <br>
 <br>
