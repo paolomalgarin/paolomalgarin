@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> 38% of American men say they love their cars more than women
+> Blondes have more hair than dark-haired people do.
 
 <br>
 <br>
