@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Blondes have more hair than dark-haired people do.
+> Almost is the longest word in the English language with all the letters in alphabetical order.
 
 <br>
 <br>
