@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Almost is the longest word in the English language with all the letters in alphabetical order.
+> The first McDonald's restaurant in Canada was in Richmond, British Columbia.
 
 <br>
 <br>
