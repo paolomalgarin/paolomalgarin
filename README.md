@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The first McDonald's restaurant in Canada was in Richmond, British Columbia.
+> Andorra, a tiny country between France & Spain, has the longest average lifespan: 83.49 years.
 
 <br>
 <br>
