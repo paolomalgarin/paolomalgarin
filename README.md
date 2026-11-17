@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Andorra, a tiny country between France & Spain, has the longest average lifespan: 83.49 years.
+> The storage capacity of human brain exceeds 4 Terabytes.
 
 <br>
 <br>
