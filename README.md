@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The storage capacity of human brain exceeds 4 Terabytes.
+> Cats have over 100 vocal sounds; dogs only have 10.
 
 <br>
 <br>
