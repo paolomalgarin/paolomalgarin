@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Cats have over 100 vocal sounds; dogs only have 10.
+> A rat can last longer without water than a camel.
 
 <br>
 <br>
