@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> A rat can last longer without water than a camel.
+> If you put a drop of liquor on a scorpion, it will instantly go mad and sting itself to death.
 
 <br>
 <br>
