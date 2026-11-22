@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> If you put a drop of liquor on a scorpion, it will instantly go mad and sting itself to death.
+> One in fourteen women in America is a natural blonde. Only one in sixteen men is.
 
 <br>
 <br>
