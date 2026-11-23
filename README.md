@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> One in fourteen women in America is a natural blonde. Only one in sixteen men is.
+> Bruce Lee was so fast that they had to slow the film down so you could see his moves.
 
 <br>
 <br>
