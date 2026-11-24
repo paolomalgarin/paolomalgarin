@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Bruce Lee was so fast that they had to slow the film down so you could see his moves.
+> The cruise liner, Queen Elizabeth II, moves only six inches for each gallon of diesel that it burns.
 
 <br>
 <br>
