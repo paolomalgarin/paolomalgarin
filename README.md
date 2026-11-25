@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The cruise liner, Queen Elizabeth II, moves only six inches for each gallon of diesel that it burns.
+> The save icon on Microsoft Word shows a floppy disk with the shutter on backwards.
 
 <br>
 <br>
