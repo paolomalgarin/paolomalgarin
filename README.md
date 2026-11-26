@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> The save icon on Microsoft Word shows a floppy disk with the shutter on backwards.
+> Bruce Lee was so fast that they actually had to s-l-o-w film down so you could see his moves.
 
 <br>
 <br>
