@@ -21,7 +21,7 @@
 
 > [!TIP]
 > **RANDOM FACT**:  
-> Bruce Lee was so fast that they actually had to s-l-o-w film down so you could see his moves.
+> Daniel Boone hated coonskin caps.
 
 <br>
 <br>
